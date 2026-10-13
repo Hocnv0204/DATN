@@ -1,0 +1,1222 @@
+{
+  "real_img_01.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "backend developer",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 2189
+  },
+  "real_img_02.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Backend Java/Spring Boot, tìm internship",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 12.5,
+      "devops": 3.5,
+      "qa": 3.0,
+      "frontend": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2242
+  },
+  "real_img_03.txt": {
+    "role": "security",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Network & IT Infrastructure / pfSense / Active Directory",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "devops": 12.7,
+      "security": 7.0,
+      "backend": 1.2,
+      "frontend": 1.2,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 3495
+  },
+  "real_img_04.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Backend focus (Spring Boot)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 3476
+  },
+  "real_img_05.txt": {
+    "role": "frontend",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "",
+    "auto_role": "frontend",
+    "role_scores": {
+      "frontend": 14.5,
+      "backend": 13.7,
+      "devops": 9.2,
+      "fullstack": 7.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 2135
+  },
+  "real_img_06.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "",
+    "auto_role": "backend",
+    "role_scores": {
+      "backend": 21.9,
+      "devops": 5.7,
+      "frontend": 2.5,
+      "data": 2.0,
+      "fullstack": 1.5,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 3533
+  },
+  "real_img_07.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "backend engineer",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 2085
+  },
+  "real_img_08.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "full-stack",
+    "auto_role": "fullstack",
+    "role_scores": {},
+    "chars": 2585
+  },
+  "real_img_09.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Backend Developer, Team Leader trong đồ án",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2680
+  },
+  "real_img_10.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "full-stack",
+    "auto_role": "fullstack",
+    "role_scores": {},
+    "chars": 2325
+  },
+  "real_img_11.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "student",
+    "title_hint": "backend developer",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 3109
+  },
+  "real_img_12.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Java/Spring Boot; 'Full-stack' chỉ là định hướng",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 3161
+  },
+  "real_img_13.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "backend developer intern",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 3170
+  },
+  "real_img_14.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Backend Java/Spring",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 15.7,
+      "frontend": 0.0,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2319
+  },
+  "real_img_15.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "title:junior",
+    "title_hint": "java developer",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 3207
+  },
+  "real_img_16.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Backend - Node.js/NestJS",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 3030
+  },
+  "real_img_17.txt": {
+    "role": "frontend",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "",
+    "auto_role": "frontend",
+    "role_scores": {
+      "frontend": 17.5,
+      "backend": 12.5,
+      "fullstack": 7.5,
+      "devops": 3.7,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 3119
+  },
+  "real_img_18.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "backend developer intern",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 1784
+  },
+  "real_img_19.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "backend developer",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 3461
+  },
+  "real_img_20.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Backend NestJS/PostgreSQL",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "frontend": 16.0,
+      "backend": 13.7,
+      "fullstack": 3.6,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 4222
+  },
+  "real_img_21.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Backend + Docker/K8s (DevOps là phụ trợ)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 3461
+  },
+  "real_img_22.txt": {
+    "role": "fullstack",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "full-stack",
+    "auto_role": "fullstack",
+    "role_scores": {},
+    "chars": 2378
+  },
+  "real_img_23.txt": {
+    "role": "devops",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "",
+    "auto_role": "devops",
+    "role_scores": {
+      "devops": 15.7,
+      "backend": 14.4,
+      "frontend": 10.0,
+      "fullstack": 6.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 3113
+  },
+  "real_img_24.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "full-stack",
+    "auto_role": "fullstack",
+    "role_scores": {},
+    "chars": 1939
+  },
+  "real_img_25.txt": {
+    "role": "fullstack",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "React + Node, Web Developer",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 3752
+  },
+  "real_img_26.txt": {
+    "role": "data",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "",
+    "auto_role": "data",
+    "role_scores": {
+      "data": 12.7,
+      "backend": 6.7,
+      "ba": 1.5,
+      "qa": 1.5,
+      "fullstack": 1.5,
+      "frontend": 0.0,
+      "devops": 0.0,
+      "security": 0.0
+    },
+    "chars": 3722
+  },
+  "real_img_27.txt": {
+    "role": "data",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Machine Learning Engineer Intern",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2468
+  },
+  "real_img_28.txt": {
+    "role": "data",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "AI/CV - OpenCV, YOLO",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "devops": 14.2,
+      "backend": 14.0,
+      "frontend": 5.7,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2641
+  },
+  "real_img_29.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Full-stack Web (React + Spring Boot)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2808
+  },
+  "real_img_30.txt": {
+    "role": "data",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "AI Engineer - LLM, retrieval, Text-to-SQL",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2767
+  },
+  "real_pdf_01.txt": {
+    "role": "fullstack",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "fullstack",
+    "auto_role": "fullstack",
+    "role_scores": {},
+    "chars": 5094
+  },
+  "real_pdf_02.txt": {
+    "role": "frontend",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "",
+    "auto_role": "frontend",
+    "role_scores": {
+      "frontend": 10.7,
+      "backend": 10.2,
+      "devops": 8.5,
+      "fullstack": 3.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 2335
+  },
+  "real_pdf_03.txt": {
+    "role": "data",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "",
+    "auto_role": "data",
+    "role_scores": {
+      "data": 23.9,
+      "backend": 1.0,
+      "frontend": 0.0,
+      "devops": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2239
+  },
+  "real_pdf_04.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Tiêu đề 'Backend Developer', học bổ sung bằng full-stack",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 5049
+  },
+  "real_pdf_05.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Mục tiêu: backend development",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 8.5,
+      "frontend": 6.5,
+      "fullstack": 4.5,
+      "ba": 2.0,
+      "devops": 0.0,
+      "data": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 1737
+  },
+  "real_pdf_06.txt": {
+    "role": "frontend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "",
+    "auto_role": "frontend",
+    "role_scores": {
+      "frontend": 12.2,
+      "backend": 12.0,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 1150
+  },
+  "real_pdf_07.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Backend engineer Java/Spring Boot",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2041
+  },
+  "real_pdf_08.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Software Engineer - full-stack web + REST",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 6.5,
+      "frontend": 1.5,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 1719
+  },
+  "real_pdf_09.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "back-end developer",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 3096
+  },
+  "real_pdf_10.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Nhiều dự án .NET + React (full-stack thực tế)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2196
+  },
+  "real_pdf_11.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "backend developer",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 3824
+  },
+  "real_pdf_12.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Skills: Backend PHP/Laravel/Node; Frontend Vue/React (full-stack nhưng nền backend)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 22.2,
+      "frontend": 19.7,
+      "qa": 9.3,
+      "fullstack": 6.6,
+      "ba": 4.5,
+      "devops": 3.7,
+      "data": 0.0,
+      "security": 0.0
+    },
+    "chars": 2612
+  },
+  "real_pdf_13.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Fresher Java Developer - RESTful API, MySQL/Oracle",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 1586
+  },
+  "real_pdf_14.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "backend developer - fresher",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 4712
+  },
+  "real_pdf_15.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Fresher Java Developer",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 6104
+  },
+  "real_pdf_16.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Backend Developer .NET, ASP.NET Core",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 4806
+  },
+  "real_pdf_17.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Java Spring Boot + ReactJS/Angular cùng lúc",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 12.0,
+      "frontend": 6.5,
+      "fullstack": 3.0,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 2198
+  },
+  "real_pdf_18.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "",
+    "auto_role": "backend",
+    "role_scores": {
+      "backend": 12.5,
+      "frontend": 0.0,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 1530
+  },
+  "real_pdf_19.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Fresher Java Backend (Spring Boot)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 1541
+  },
+  "real_pdf_20.txt": {
+    "role": "frontend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Kỹ năng Front-end HTML/CSS/JS/Bootstrap",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 14.9,
+      "frontend": 6.5,
+      "fullstack": 1.5,
+      "devops": 1.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 2707
+  },
+  "real_pdf_21.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "years=3",
+    "title_hint": "java developer",
+    "auto_role": "backend",
+    "role_scores": {},
+    "chars": 2810
+  },
+  "real_pdf_22.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Java Spring + Node + React + Docker (full-stack)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 3554
+  },
+  "real_pdf_23.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "BACKEND INTERN - Java/Spring Boot",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2126
+  },
+  "real_pdf_24.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Java Spring Boot + React",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 8.2,
+      "frontend": 7.7,
+      "fullstack": 7.5,
+      "ba": 1.5,
+      "devops": 0.0,
+      "data": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 2767
+  },
+  "real_pdf_25.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Backend Developer - PHP/Laravel",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 6.5,
+      "frontend": 1.5,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 1697
+  },
+  "real_pdf_26.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Java Backend - mục tiêu Java Back-end",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2327
+  },
+  "real_pdf_27.txt": {
+    "role": "frontend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Android - Kotlin, Android Studio",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 2.0,
+      "frontend": 1.5,
+      "devops": 1.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2372
+  },
+  "real_pdf_28.txt": {
+    "role": "frontend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Android Intern App - Kotlin/Java",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 3.2,
+      "frontend": 1.5,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2439
+  },
+  "real_pdf_29.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Intern .NET Developer",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 4253
+  },
+  "real_pdf_30.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Web developer đa nền tảng",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 12.4,
+      "frontend": 9.8,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 5274
+  },
+  "real_pdf_31.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Web Developer Intern (HTML/CSS/JS/PHP)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 10.2,
+      "frontend": 7.7,
+      "devops": 3.7,
+      "qa": 3.5,
+      "fullstack": 3.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "security": 0.0
+    },
+    "chars": 1767
+  },
+  "real_pdf_32.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Intern PHP/Laravel",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 3144
+  },
+  "real_pdf_33.txt": {
+    "role": "frontend",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Front-end / Web (React, JS)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 17.9,
+      "frontend": 15.0,
+      "fullstack": 3.6,
+      "devops": 1.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 3413
+  },
+  "real_pdf_34.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "ReactJS + Node.js (Express) + MySQL",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "frontend": 13.5,
+      "backend": 12.2,
+      "fullstack": 4.5,
+      "qa": 3.5,
+      "security": 2.5,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0
+    },
+    "chars": 2878
+  },
+  "real_pdf_35.txt": {
+    "role": "fullstack",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Developer đa nền tảng web",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 4776
+  },
+  "real_pdf_36.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "C#/ASP.NET Core backend",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 10.9,
+      "data": 6.0,
+      "frontend": 0.0,
+      "devops": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2816
+  },
+  "real_pdf_37.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Backend Developer",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 3086
+  },
+  "real_pdf_38.txt": {
+    "role": "frontend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Low-code Developer Intern",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 23.0,
+      "frontend": 9.0,
+      "fullstack": 5.1,
+      "ba": 3.0,
+      "data": 2.5,
+      "qa": 2.0,
+      "devops": 0.0,
+      "security": 0.0
+    },
+    "chars": 6422
+  },
+  "real_pdf_39.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "title:intern",
+    "title_hint": "",
+    "auto_role": "backend",
+    "role_scores": {
+      "backend": 12.9,
+      "devops": 2.5,
+      "frontend": 1.2,
+      "fullstack": 0.9,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 2643
+  },
+  "real_pdf_40.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Front-end + Back-end (C#/SQL Server)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 9.7,
+      "frontend": 4.5,
+      "fullstack": 3.6,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 3900
+  },
+  "real_pdf_41.txt": {
+    "role": "security",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "IT Helpdesk",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "frontend": 1.5,
+      "backend": 0.0,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2120
+  },
+  "real_pdf_42.txt": {
+    "role": "fullstack",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Profile - React/Node",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "frontend": 11.5,
+      "backend": 11.0,
+      "ba": 5.5,
+      "fullstack": 4.5,
+      "devops": 0.0,
+      "data": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 3186
+  },
+  "real_pdf_43.txt": {
+    "role": "fullstack",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "FULL-STACK DEVELOPER",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 1958
+  },
+  "real_pdf_44.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Java Backend - PHP/Laravel song song",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2305
+  },
+  "real_pdf_45.txt": {
+    "role": "ba",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "",
+    "auto_role": "ba",
+    "role_scores": {
+      "ba": 13.0,
+      "backend": 0.0,
+      "frontend": 0.0,
+      "devops": 0.0,
+      "data": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 1841
+  },
+  "real_pdf_46.txt": {
+    "role": "OTHER",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "CV Nhật - 応募職種：マーケティングスタッフ/事務员 (không phải IT, loại khỏi dataset)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 0.0,
+      "frontend": 0.0,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 848
+  },
+  "real_pdf_47.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Motivated Backend Developer (Java)",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2777
+  },
+  "real_pdf_48.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": ".NET Backend Developer",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 4490
+  },
+  "real_pdf_49.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Intern Developer - Java",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 7.0,
+      "frontend": 5.5,
+      "devops": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 3408
+  },
+  "real_pdf_50.txt": {
+    "role": "data",
+    "level": "junior",
+    "role_signal": "keyword",
+    "level_signal": "default",
+    "title_hint": "",
+    "auto_role": "data",
+    "role_scores": {
+      "data": 22.7,
+      "devops": 15.2,
+      "backend": 5.9,
+      "fullstack": 3.6,
+      "frontend": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0
+    },
+    "chars": 2497
+  },
+  "real_pdf_51.txt": {
+    "role": "backend",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Backend Developer - JS/SQL",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 1959
+  },
+  "real_pdf_52.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Backend - Java Spring",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 16.2,
+      "devops": 15.0,
+      "frontend": 0.0,
+      "data": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2400
+  },
+  "real_pdf_53.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Backend Developer",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2229
+  },
+  "real_pdf_54.txt": {
+    "role": "backend",
+    "level": "intern",
+    "role_signal": "manual",
+    "level_signal": "Developer - backend trọng tâm",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {
+      "backend": 14.7,
+      "frontend": 6.7,
+      "devops": 2.5,
+      "ba": 2.0,
+      "data": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 2668
+  },
+  "real_pdf_55.txt": {
+    "role": "data",
+    "level": "intern",
+    "role_signal": "keyword",
+    "level_signal": "student",
+    "title_hint": "",
+    "auto_role": "data",
+    "role_scores": {
+      "data": 3.0,
+      "backend": 2.4,
+      "frontend": 1.2,
+      "devops": 0.0,
+      "ba": 0.0,
+      "qa": 0.0,
+      "security": 0.0,
+      "fullstack": 0.0
+    },
+    "chars": 3000
+  },
+  "real_pdf_56.txt": {
+    "role": "fullstack",
+    "level": "junior",
+    "role_signal": "manual",
+    "level_signal": "Fullstack Web Developer - Java Spring + Angular",
+    "title_hint": "",
+    "auto_role": null,
+    "role_scores": {},
+    "chars": 2082
+  }
+}

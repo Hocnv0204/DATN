@@ -1,0 +1,2372 @@
+{
+ "total_lines": 494,
+ "parsed_records": 494,
+ "line_errors": [],
+ "records_with_issues": 38,
+ "issues_by_type": {
+  "ungrounded_bullet": 25,
+  "ungrounded": 56,
+  "ungrounded_sentence": 10,
+  "duplicate_item": 1,
+  "overused_description": 1
+ },
+ "distinct_instructions": 1,
+ "near_duplicate_inputs": [
+  {
+   "files": [
+    "8.txt",
+    "25.txt"
+   ],
+   "jaccard": 0.875
+  }
+ ],
+ "repeated_description_groups": [
+  {
+   "records": [
+    "100.txt",
+    "101.txt",
+    "103.txt",
+    "104.txt",
+    "105.txt",
+    "106.txt",
+    "107.txt",
+    "109.txt",
+    "159.txt",
+    "160.txt",
+    "163.txt",
+    "164.txt",
+    "167.txt",
+    "168.txt",
+    "169.txt",
+    "171.txt",
+    "173.txt",
+    "175.txt",
+    "226.txt",
+    "227.txt",
+    "229.txt",
+    "230.txt",
+    "231.txt",
+    "232.txt",
+    "233.txt",
+    "234.txt",
+    "235.txt",
+    "236.txt",
+    "237.txt",
+    "238.txt",
+    "239.txt",
+    "279.txt",
+    "281.txt",
+    "282.txt",
+    "283.txt",
+    "285.txt",
+    "287.txt",
+    "288.txt",
+    "292.txt",
+    "338.txt",
+    "339.txt",
+    "344.txt",
+    "346.txt",
+    "347.txt",
+    "348.txt",
+    "350.txt",
+    "351.txt",
+    "352.txt",
+    "398.txt",
+    "400.txt",
+    "402.txt",
+    "403.txt",
+    "407.txt",
+    "411.txt",
+    "412.txt",
+    "451.txt",
+    "452.txt",
+    "453.txt",
+    "455.txt",
+    "456.txt",
+    "457.txt",
+    "458.txt",
+    "459.txt",
+    "460.txt",
+    "462.txt",
+    "488.txt",
+    "490.txt",
+    "495.txt",
+    "497.txt",
+    "498.txt",
+    "499.txt",
+    "500.txt",
+    "501.txt",
+    "93.txt",
+    "94.txt",
+    "95.txt",
+    "96.txt",
+    "99.txt"
+   ],
+   "count": 170,
+   "sample": "chuyểnđổikiếntrúcmonolithsangmicroservicestriểnkhaidầnkhônggiánđoạndịchvụ"
+  },
+  {
+   "records": [
+    "114.txt",
+    "115.txt",
+    "116.txt",
+    "118.txt",
+    "120.txt",
+    "121.txt",
+    "176.txt",
+    "179.txt",
+    "181.txt",
+    "184.txt",
+    "186.txt",
+    "187.txt",
+    "188.txt",
+    "189.txt",
+    "190.txt",
+    "241.txt",
+    "242.txt",
+    "246.txt",
+    "247.txt",
+    "248.txt",
+    "250.txt",
+    "251.txt",
+    "294.txt",
+    "295.txt",
+    "297.txt",
+    "298.txt",
+    "299.txt",
+    "301.txt",
+    "302.txt",
+    "305.txt",
+    "353.txt",
+    "354.txt",
+    "356.txt",
+    "357.txt",
+    "359.txt",
+    "360.txt",
+    "362.txt",
+    "364.txt",
+    "413.txt",
+    "415.txt",
+    "417.txt",
+    "418.txt",
+    "420.txt",
+    "421.txt",
+    "422.txt",
+    "424.txt",
+    "463.txt",
+    "464.txt",
+    "465.txt",
+    "466.txt",
+    "467.txt",
+    "472.txt",
+    "503.txt",
+    "506.txt",
+    "507.txt",
+    "508.txt",
+    "509.txt",
+    "510.txt",
+    "511.txt",
+    "512.txt",
+    "513.txt",
+    "514.txt"
+   ],
+   "count": 131,
+   "sample": "ápdụngkiếntrúchexagonalđểtáchlớpnghiệpvụkhỏihạtầng"
+  },
+  {
+   "records": [
+    "114.txt",
+    "115.txt",
+    "116.txt",
+    "118.txt",
+    "120.txt",
+    "121.txt",
+    "176.txt",
+    "179.txt",
+    "181.txt",
+    "184.txt",
+    "186.txt",
+    "187.txt",
+    "188.txt",
+    "189.txt",
+    "190.txt",
+    "241.txt",
+    "242.txt",
+    "246.txt",
+    "247.txt",
+    "248.txt",
+    "250.txt",
+    "251.txt",
+    "294.txt",
+    "295.txt",
+    "297.txt",
+    "298.txt",
+    "299.txt",
+    "301.txt",
+    "302.txt",
+    "305.txt",
+    "353.txt",
+    "354.txt",
+    "356.txt",
+    "357.txt",
+    "359.txt",
+    "360.txt",
+    "362.txt",
+    "364.txt",
+    "413.txt",
+    "415.txt",
+    "417.txt",
+    "418.txt",
+    "420.txt",
+    "421.txt",
+    "422.txt",
+    "424.txt",
+    "463.txt",
+    "464.txt",
+    "465.txt",
+    "466.txt",
+    "467.txt",
+    "472.txt",
+    "503.txt",
+    "506.txt",
+    "507.txt",
+    "508.txt",
+    "509.txt",
+    "510.txt",
+    "511.txt",
+    "512.txt",
+    "513.txt",
+    "514.txt"
+   ],
+   "count": 120,
+   "sample": "điềuhướngquytrìnhsystemdesignchuẩnhóađánhgiágiảiphápkỹthuậttrướckhitriểnkhai"
+  },
+  {
+   "records": [
+    "102.txt",
+    "108.txt",
+    "158.txt",
+    "162.txt",
+    "165.txt",
+    "166.txt",
+    "170.txt",
+    "172.txt",
+    "174.txt",
+    "228.txt",
+    "240.txt",
+    "284.txt",
+    "286.txt",
+    "289.txt",
+    "290.txt",
+    "291.txt",
+    "293.txt",
+    "340.txt",
+    "341.txt",
+    "342.txt",
+    "343.txt",
+    "345.txt",
+    "349.txt",
+    "399.txt",
+    "401.txt",
+    "404.txt",
+    "405.txt",
+    "406.txt",
+    "408.txt",
+    "410.txt",
+    "454.txt",
+    "461.txt",
+    "489.txt",
+    "491.txt",
+    "492.txt",
+    "493.txt",
+    "494.txt",
+    "496.txt",
+    "502.txt",
+    "92.txt",
+    "97.txt",
+    "98.txt"
+   ],
+   "count": 111,
+   "sample": "migratedamonolithtomicroservicesincrementallywithzerodowntime"
+  },
+  {
+   "records": [
+    "144.txt",
+    "145.txt",
+    "148.txt",
+    "149.txt",
+    "150.txt",
+    "151.txt",
+    "153.txt",
+    "154.txt",
+    "155.txt",
+    "157.txt",
+    "213.txt",
+    "215.txt",
+    "217.txt",
+    "219.txt",
+    "221.txt",
+    "222.txt",
+    "223.txt",
+    "224.txt",
+    "225.txt",
+    "266.txt",
+    "271.txt",
+    "274.txt",
+    "275.txt",
+    "276.txt",
+    "277.txt",
+    "324.txt",
+    "325.txt",
+    "326.txt",
+    "329.txt",
+    "330.txt",
+    "331.txt",
+    "332.txt",
+    "333.txt",
+    "334.txt",
+    "335.txt",
+    "384.txt",
+    "386.txt",
+    "387.txt",
+    "388.txt",
+    "389.txt",
+    "390.txt",
+    "393.txt",
+    "394.txt",
+    "395.txt",
+    "397.txt",
+    "440.txt",
+    "441.txt",
+    "442.txt",
+    "443.txt",
+    "444.txt",
+    "445.txt",
+    "449.txt",
+    "450.txt",
+    "479.txt",
+    "481.txt",
+    "483.txt",
+    "484.txt",
+    "485.txt",
+    "487.txt",
+    "86.txt",
+    "88.txt",
+    "89.txt",
+    "90.txt",
+    "91.txt"
+   ],
+   "count": 107,
+   "sample": "đượcđánhgiáhoànthànhxuấtsắctrongkỳđánhgiánộibộcủacôngty"
+  },
+  {
+   "records": [
+    "110.txt",
+    "111.txt",
+    "112.txt",
+    "113.txt",
+    "117.txt",
+    "119.txt",
+    "122.txt",
+    "123.txt",
+    "124.txt",
+    "177.txt",
+    "178.txt",
+    "180.txt",
+    "182.txt",
+    "183.txt",
+    "185.txt",
+    "243.txt",
+    "244.txt",
+    "245.txt",
+    "249.txt",
+    "252.txt",
+    "296.txt",
+    "300.txt",
+    "303.txt",
+    "304.txt",
+    "355.txt",
+    "358.txt",
+    "361.txt",
+    "363.txt",
+    "414.txt",
+    "416.txt",
+    "419.txt",
+    "423.txt",
+    "468.txt",
+    "469.txt",
+    "470.txt",
+    "471.txt",
+    "504.txt",
+    "505.txt"
+   ],
+   "count": 106,
+   "sample": "appliedhexagonalarchitecturetodecoupledomainlogicfrominfrastructure"
+  },
+  {
+   "records": [
+    "125.txt",
+    "126.txt",
+    "127.txt",
+    "128.txt",
+    "130.txt",
+    "131.txt",
+    "191.txt",
+    "192.txt",
+    "194.txt",
+    "195.txt",
+    "197.txt",
+    "198.txt",
+    "199.txt",
+    "253.txt",
+    "254.txt",
+    "255.txt",
+    "257.txt",
+    "306.txt",
+    "307.txt",
+    "308.txt",
+    "309.txt",
+    "310.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "370.txt",
+    "425.txt",
+    "427.txt",
+    "429.txt",
+    "430.txt",
+    "473.txt",
+    "474.txt",
+    "475.txt",
+    "476.txt",
+    "477.txt",
+    "515.txt",
+    "518.txt"
+   ],
+   "count": 87,
+   "sample": "thúcđẩyvănhóakỹthuậttổchứcworkshopchiasẻkiếnthứchàngthángchotoànbộnhóm"
+  },
+  {
+   "records": [
+    "125.txt",
+    "126.txt",
+    "127.txt",
+    "128.txt",
+    "130.txt",
+    "131.txt",
+    "191.txt",
+    "192.txt",
+    "194.txt",
+    "195.txt",
+    "197.txt",
+    "198.txt",
+    "199.txt",
+    "253.txt",
+    "254.txt",
+    "255.txt",
+    "257.txt",
+    "306.txt",
+    "308.txt",
+    "309.txt",
+    "310.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "370.txt",
+    "425.txt",
+    "427.txt",
+    "429.txt",
+    "430.txt",
+    "473.txt",
+    "474.txt",
+    "476.txt",
+    "477.txt",
+    "515.txt",
+    "518.txt"
+   ],
+   "count": 86,
+   "sample": "đánhgiárủirokỹthuậtvàđềxuấtphươngángiảmthiểutrướckhicamkếtvớikháchhàng"
+  },
+  {
+   "records": [
+    "125.txt",
+    "126.txt",
+    "127.txt",
+    "128.txt",
+    "130.txt",
+    "131.txt",
+    "191.txt",
+    "192.txt",
+    "194.txt",
+    "195.txt",
+    "197.txt",
+    "198.txt",
+    "253.txt",
+    "254.txt",
+    "255.txt",
+    "257.txt",
+    "306.txt",
+    "307.txt",
+    "308.txt",
+    "309.txt",
+    "310.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "370.txt",
+    "425.txt",
+    "427.txt",
+    "429.txt",
+    "430.txt",
+    "473.txt",
+    "474.txt",
+    "475.txt",
+    "476.txt",
+    "477.txt",
+    "515.txt",
+    "518.txt"
+   ],
+   "count": 82,
+   "sample": "thiếtkếkiếntrúctổngthểchọncôngnghệvàchuẩnhóanềntảngdùngchung"
+  },
+  {
+   "records": [
+    "125.txt",
+    "126.txt",
+    "127.txt",
+    "128.txt",
+    "130.txt",
+    "131.txt",
+    "191.txt",
+    "192.txt",
+    "194.txt",
+    "195.txt",
+    "197.txt",
+    "198.txt",
+    "199.txt",
+    "253.txt",
+    "254.txt",
+    "255.txt",
+    "257.txt",
+    "306.txt",
+    "307.txt",
+    "308.txt",
+    "309.txt",
+    "310.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "370.txt",
+    "425.txt",
+    "427.txt",
+    "429.txt",
+    "430.txt",
+    "473.txt",
+    "474.txt",
+    "475.txt",
+    "476.txt",
+    "477.txt",
+    "515.txt",
+    "518.txt"
+   ],
+   "count": 81,
+   "sample": "làmviệctrựctiếpvớistakeholdernghiệpvụđểlàmrõyêucầuvàcânbằngphạmvivớithờihạn"
+  },
+  {
+   "records": [
+    "110.txt",
+    "111.txt",
+    "112.txt",
+    "113.txt",
+    "117.txt",
+    "119.txt",
+    "122.txt",
+    "123.txt",
+    "124.txt",
+    "177.txt",
+    "178.txt",
+    "180.txt",
+    "182.txt",
+    "183.txt",
+    "185.txt",
+    "243.txt",
+    "244.txt",
+    "245.txt",
+    "249.txt",
+    "296.txt",
+    "300.txt",
+    "303.txt",
+    "304.txt",
+    "355.txt",
+    "358.txt",
+    "361.txt",
+    "363.txt",
+    "414.txt",
+    "416.txt",
+    "419.txt",
+    "423.txt",
+    "468.txt",
+    "469.txt",
+    "470.txt",
+    "471.txt",
+    "504.txt",
+    "505.txt"
+   ],
+   "count": 78,
+   "sample": "facilitatedsystemdesignreviewsandstandardisedtechnicalevaluationbeforerollout"
+  },
+  {
+   "records": [
+    "135.txt",
+    "136.txt",
+    "139.txt",
+    "140.txt",
+    "142.txt",
+    "203.txt",
+    "206.txt",
+    "208.txt",
+    "259.txt",
+    "261.txt",
+    "262.txt",
+    "263.txt",
+    "265.txt",
+    "312.txt",
+    "314.txt",
+    "320.txt",
+    "321.txt",
+    "322.txt",
+    "323.txt",
+    "371.txt",
+    "372.txt",
+    "375.txt",
+    "376.txt",
+    "377.txt",
+    "378.txt",
+    "380.txt",
+    "381.txt",
+    "382.txt",
+    "431.txt",
+    "432.txt",
+    "438.txt",
+    "439.txt"
+   ],
+   "count": 45,
+   "sample": "hỗtrợkiểmthửthủcôngvàghinhậnlỗipháthiệnđược"
+  },
+  {
+   "records": [
+    "129.txt",
+    "132.txt",
+    "133.txt",
+    "193.txt",
+    "196.txt",
+    "256.txt",
+    "258.txt",
+    "311.txt",
+    "368.txt",
+    "369.txt",
+    "426.txt",
+    "428.txt",
+    "478.txt",
+    "516.txt",
+    "517.txt",
+    "519.txt",
+    "520.txt"
+   ],
+   "count": 44,
+   "sample": "ranmonthlyengineeringworkshopsandgrewtheteamstechnicalcapability"
+  },
+  {
+   "records": [
+    "129.txt",
+    "132.txt",
+    "133.txt",
+    "193.txt",
+    "196.txt",
+    "256.txt",
+    "258.txt",
+    "311.txt",
+    "368.txt",
+    "369.txt",
+    "426.txt",
+    "428.txt",
+    "478.txt",
+    "516.txt",
+    "517.txt",
+    "519.txt",
+    "520.txt"
+   ],
+   "count": 44,
+   "sample": "designedthetargetarchitecturetechnologyselectionandsharedplatformstandards"
+  },
+  {
+   "records": [
+    "103.txt",
+    "163.txt",
+    "175.txt",
+    "229.txt",
+    "230.txt",
+    "233.txt",
+    "280.txt",
+    "285.txt",
+    "287.txt",
+    "288.txt",
+    "292.txt",
+    "407.txt",
+    "457.txt",
+    "488.txt",
+    "499.txt",
+    "501.txt",
+    "94.txt",
+    "96.txt",
+    "99.txt"
+   ],
+   "count": 43,
+   "sample": "đưatỷlệlỗipháthiệntrướckhilênproductionlên90%"
+  },
+  {
+   "records": [
+    "144.txt",
+    "145.txt",
+    "148.txt",
+    "149.txt",
+    "150.txt",
+    "155.txt",
+    "213.txt",
+    "214.txt",
+    "217.txt",
+    "220.txt",
+    "223.txt",
+    "224.txt",
+    "225.txt",
+    "266.txt",
+    "271.txt",
+    "274.txt",
+    "276.txt",
+    "325.txt",
+    "326.txt",
+    "329.txt",
+    "332.txt",
+    "334.txt",
+    "383.txt",
+    "384.txt",
+    "386.txt",
+    "387.txt",
+    "388.txt",
+    "389.txt",
+    "440.txt",
+    "442.txt",
+    "448.txt",
+    "449.txt",
+    "450.txt",
+    "479.txt",
+    "481.txt",
+    "86.txt",
+    "89.txt",
+    "90.txt",
+    "91.txt"
+   ],
+   "count": 42,
+   "sample": "triểnkhaitínhnăngmớitheoyêucầunghiệpvụđạttiêuchuẩnnghiệmthu"
+  },
+  {
+   "records": [
+    "129.txt",
+    "132.txt",
+    "133.txt",
+    "193.txt",
+    "196.txt",
+    "256.txt",
+    "258.txt",
+    "311.txt",
+    "368.txt",
+    "369.txt",
+    "426.txt",
+    "428.txt",
+    "478.txt",
+    "516.txt",
+    "517.txt",
+    "519.txt",
+    "520.txt"
+   ],
+   "count": 42,
+   "sample": "partnereddirectlywithbusinessstakeholderstoclarifyrequirementsandscopetradeoffs"
+  },
+  {
+   "records": [
+    "116.txt",
+    "120.txt",
+    "176.txt",
+    "179.txt",
+    "181.txt",
+    "184.txt",
+    "186.txt",
+    "187.txt",
+    "189.txt",
+    "190.txt",
+    "242.txt",
+    "248.txt",
+    "250.txt",
+    "251.txt",
+    "295.txt",
+    "297.txt",
+    "298.txt",
+    "305.txt",
+    "353.txt",
+    "356.txt",
+    "359.txt",
+    "362.txt",
+    "420.txt",
+    "424.txt",
+    "463.txt",
+    "464.txt",
+    "506.txt",
+    "507.txt",
+    "508.txt",
+    "510.txt",
+    "511.txt",
+    "512.txt",
+    "513.txt"
+   ],
+   "count": 39,
+   "sample": "thiếtkếkiếntrúceventdrivenvớikafkaxửlý100000sựkiệnmỗigiây"
+  },
+  {
+   "records": [
+    "105.txt",
+    "160.txt",
+    "161.txt",
+    "167.txt",
+    "168.txt",
+    "169.txt",
+    "232.txt",
+    "238.txt",
+    "239.txt",
+    "279.txt",
+    "339.txt",
+    "347.txt",
+    "348.txt",
+    "350.txt",
+    "352.txt",
+    "398.txt",
+    "400.txt",
+    "453.txt",
+    "490.txt"
+   ],
+   "count": 38,
+   "sample": "đưatỷlệlỗipháthiệntrướckhilênproductionlên75%"
+  },
+  {
+   "records": [
+    "100.txt",
+    "103.txt",
+    "106.txt",
+    "107.txt",
+    "159.txt",
+    "160.txt",
+    "171.txt",
+    "173.txt",
+    "175.txt",
+    "230.txt",
+    "233.txt",
+    "234.txt",
+    "235.txt",
+    "237.txt",
+    "346.txt",
+    "347.txt",
+    "351.txt",
+    "352.txt",
+    "407.txt",
+    "455.txt",
+    "456.txt",
+    "458.txt",
+    "459.txt",
+    "488.txt",
+    "490.txt",
+    "498.txt",
+    "499.txt",
+    "96.txt"
+   ],
+   "count": 35,
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới850giây"
+  },
+  {
+   "records": [
+    "148.txt",
+    "150.txt",
+    "151.txt",
+    "155.txt",
+    "213.txt",
+    "214.txt",
+    "215.txt",
+    "224.txt",
+    "266.txt",
+    "277.txt",
+    "324.txt",
+    "330.txt",
+    "387.txt",
+    "395.txt",
+    "440.txt",
+    "444.txt",
+    "445.txt",
+    "448.txt",
+    "450.txt",
+    "479.txt",
+    "483.txt",
+    "485.txt",
+    "487.txt",
+    "86.txt"
+   ],
+   "count": 33,
+   "sample": "tíchhợpthanhtoántrựctuyếnvới3đốitác"
+  },
+  {
+   "records": [
+    "108.txt",
+    "166.txt",
+    "170.txt",
+    "172.txt",
+    "289.txt",
+    "293.txt",
+    "399.txt",
+    "408.txt",
+    "410.txt",
+    "454.txt",
+    "98.txt"
+   ],
+   "count": 31,
+   "sample": "raisedpreproductiondefectdetectionto75%"
+  },
+  {
+   "records": [
+    "116.txt",
+    "120.txt",
+    "179.txt",
+    "181.txt",
+    "184.txt",
+    "187.txt",
+    "188.txt",
+    "189.txt",
+    "190.txt",
+    "247.txt",
+    "298.txt",
+    "301.txt",
+    "353.txt",
+    "356.txt",
+    "360.txt",
+    "362.txt",
+    "413.txt",
+    "418.txt",
+    "421.txt",
+    "466.txt",
+    "467.txt",
+    "503.txt",
+    "507.txt",
+    "511.txt",
+    "512.txt"
+   ],
+   "count": 31,
+   "sample": "tăngkhảnăngchịulỗithờigiankhôiphụctrungbình1200phút"
+  },
+  {
+   "records": [
+    "125.txt",
+    "126.txt",
+    "128.txt",
+    "192.txt",
+    "194.txt",
+    "198.txt",
+    "199.txt",
+    "253.txt",
+    "254.txt",
+    "306.txt",
+    "307.txt",
+    "308.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "427.txt",
+    "430.txt",
+    "474.txt",
+    "475.txt",
+    "476.txt",
+    "515.txt",
+    "518.txt"
+   ],
+   "count": 30,
+   "sample": "xâydựnglộtrìnhkỹthuậtdàihạncho3nămđịnhhướngcôngnghệvàloạibỏnợkỹthuật"
+  },
+  {
+   "records": [
+    "100.txt",
+    "103.txt",
+    "109.txt",
+    "160.txt",
+    "161.txt",
+    "163.txt",
+    "175.txt",
+    "227.txt",
+    "229.txt",
+    "237.txt",
+    "238.txt",
+    "279.txt",
+    "282.txt",
+    "285.txt",
+    "287.txt",
+    "292.txt",
+    "338.txt",
+    "344.txt",
+    "412.txt",
+    "453.txt",
+    "457.txt",
+    "460.txt",
+    "501.txt",
+    "93.txt",
+    "94.txt"
+   ],
+   "count": 29,
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới200giây"
+  },
+  {
+   "records": [
+    "114.txt",
+    "116.txt",
+    "118.txt",
+    "181.txt",
+    "188.txt",
+    "190.txt",
+    "242.txt",
+    "246.txt",
+    "247.txt",
+    "251.txt",
+    "297.txt",
+    "302.txt",
+    "305.txt",
+    "357.txt",
+    "360.txt",
+    "362.txt",
+    "415.txt",
+    "418.txt",
+    "424.txt",
+    "472.txt",
+    "508.txt",
+    "511.txt",
+    "512.txt"
+   ],
+   "count": 29,
+   "sample": "tăngkhảnăngchịulỗithờigiankhôiphụctrungbình600phút"
+  },
+  {
+   "records": [
+    "106.txt",
+    "161.txt",
+    "169.txt",
+    "171.txt",
+    "229.txt",
+    "232.txt",
+    "237.txt",
+    "281.txt",
+    "282.txt",
+    "339.txt",
+    "346.txt",
+    "347.txt",
+    "350.txt",
+    "400.txt",
+    "407.txt",
+    "411.txt",
+    "452.txt",
+    "459.txt",
+    "495.txt",
+    "499.txt",
+    "93.txt",
+    "95.txt",
+    "99.txt"
+   ],
+   "count": 28,
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới1200giây"
+  },
+  {
+   "records": [
+    "101.txt",
+    "105.txt",
+    "106.txt",
+    "107.txt",
+    "109.txt",
+    "163.txt",
+    "168.txt",
+    "226.txt",
+    "229.txt",
+    "231.txt",
+    "233.txt",
+    "239.txt",
+    "279.txt",
+    "288.txt",
+    "398.txt",
+    "409.txt",
+    "412.txt",
+    "456.txt",
+    "457.txt",
+    "458.txt",
+    "460.txt",
+    "462.txt",
+    "490.txt",
+    "497.txt",
+    "94.txt"
+   ],
+   "count": 28,
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới450giây"
+  },
+  {
+   "records": [
+    "136.txt",
+    "138.txt",
+    "139.txt",
+    "142.txt",
+    "200.txt",
+    "202.txt",
+    "206.txt",
+    "262.txt",
+    "263.txt",
+    "265.txt",
+    "312.txt",
+    "313.txt",
+    "314.txt",
+    "317.txt",
+    "320.txt",
+    "321.txt",
+    "322.txt",
+    "323.txt",
+    "371.txt",
+    "372.txt",
+    "373.txt",
+    "377.txt",
+    "378.txt",
+    "380.txt",
+    "382.txt",
+    "431.txt",
+    "437.txt",
+    "439.txt"
+   ],
+   "count": 28,
+   "sample": "phốihợpvớiseniorđểreviewcodevàsửalỗiphátsinh"
+  },
+  {
+   "records": [
+    "106.txt",
+    "107.txt",
+    "159.txt",
+    "168.txt",
+    "169.txt",
+    "171.txt",
+    "227.txt",
+    "229.txt",
+    "237.txt",
+    "239.txt",
+    "287.txt",
+    "288.txt",
+    "292.txt",
+    "347.txt",
+    "351.txt",
+    "352.txt",
+    "400.txt",
+    "402.txt",
+    "409.txt",
+    "456.txt",
+    "458.txt",
+    "499.txt",
+    "501.txt",
+    "96.txt"
+   ],
+   "count": 27,
+   "sample": "thamgiathiếtkếschemacho12bảngxửlýkhóachínhvàchỉmụcphùhợptải"
+  },
+  {
+   "records": [
+    "118.txt",
+    "120.txt",
+    "179.txt",
+    "187.txt",
+    "189.txt",
+    "190.txt",
+    "242.txt",
+    "247.txt",
+    "294.txt",
+    "298.txt",
+    "299.txt",
+    "301.txt",
+    "305.txt",
+    "353.txt",
+    "356.txt",
+    "359.txt",
+    "364.txt",
+    "420.txt",
+    "422.txt",
+    "424.txt",
+    "506.txt",
+    "510.txt",
+    "511.txt"
+   ],
+   "count": 27,
+   "sample": "thiếtkếchiếnlượcmultiregionvàdisasterrecoverythờigiankhôiphụcdưới320phút"
+  },
+  {
+   "records": [
+    "126.txt",
+    "128.txt",
+    "130.txt",
+    "131.txt",
+    "194.txt",
+    "195.txt",
+    "254.txt",
+    "255.txt",
+    "307.txt",
+    "308.txt",
+    "309.txt",
+    "310.txt",
+    "366.txt",
+    "370.txt",
+    "425.txt",
+    "430.txt",
+    "473.txt",
+    "474.txt",
+    "477.txt"
+   ],
+   "count": 27,
+   "sample": "xâydựnglộtrìnhkỹthuậtdàihạncho2nămđịnhhướngcôngnghệvàloạibỏnợkỹthuật"
+  },
+  {
+   "records": [
+    "164.txt",
+    "234.txt",
+    "281.txt",
+    "282.txt",
+    "283.txt",
+    "338.txt",
+    "344.txt",
+    "351.txt",
+    "456.txt",
+    "458.txt",
+    "460.txt",
+    "497.txt"
+   ],
+   "count": 27,
+   "sample": "đưatỷlệlỗipháthiệntrướckhilênproductionlên80%"
+  },
+  {
+   "records": [
+    "115.txt",
+    "118.txt",
+    "179.txt",
+    "186.txt",
+    "189.txt",
+    "241.txt",
+    "246.txt",
+    "247.txt",
+    "248.txt",
+    "294.txt",
+    "295.txt",
+    "298.txt",
+    "302.txt",
+    "305.txt",
+    "353.txt",
+    "357.txt",
+    "415.txt",
+    "417.txt",
+    "418.txt",
+    "463.txt",
+    "466.txt",
+    "503.txt",
+    "509.txt"
+   ],
+   "count": 26,
+   "sample": "thiếtkếkiếntrúceventdrivenvớikafkaxửlý5000sựkiệnmỗigiây"
+  },
+  {
+   "records": [
+    "120.txt",
+    "121.txt",
+    "187.txt",
+    "190.txt",
+    "248.txt",
+    "250.txt",
+    "251.txt",
+    "295.txt",
+    "297.txt",
+    "299.txt",
+    "301.txt",
+    "354.txt",
+    "356.txt",
+    "360.txt",
+    "415.txt",
+    "417.txt",
+    "463.txt",
+    "464.txt",
+    "465.txt",
+    "472.txt",
+    "507.txt",
+    "509.txt",
+    "511.txt",
+    "512.txt"
+   ],
+   "count": 26,
+   "sample": "kiếntrúcsưchínhcho8serviceđưaraquyếtđịnhcôngnghệvàtradeoffvềchiphíđộtrễvàđộsẵnsàng"
+  },
+  {
+   "records": [
+    "121.txt",
+    "179.txt",
+    "181.txt",
+    "189.txt",
+    "241.txt",
+    "242.txt",
+    "251.txt",
+    "297.txt",
+    "302.txt",
+    "305.txt",
+    "357.txt",
+    "359.txt",
+    "362.txt",
+    "421.txt",
+    "464.txt",
+    "472.txt",
+    "506.txt",
+    "509.txt",
+    "510.txt",
+    "514.txt"
+   ],
+   "count": 26,
+   "sample": "tăngkhảnăngchịulỗithờigiankhôiphụctrungbình320phút"
+  },
+  {
+   "records": [
+    "145.txt",
+    "150.txt",
+    "154.txt",
+    "217.txt",
+    "219.txt",
+    "223.txt",
+    "266.txt",
+    "271.txt",
+    "274.txt",
+    "275.txt",
+    "325.txt",
+    "326.txt",
+    "330.txt",
+    "383.txt",
+    "384.txt",
+    "388.txt",
+    "393.txt",
+    "395.txt",
+    "440.txt",
+    "441.txt",
+    "442.txt",
+    "88.txt",
+    "91.txt"
+   ],
+   "count": 25,
+   "sample": "tíchhợpthanhtoántrựctuyếnvới5đốitác"
+  },
+  {
+   "records": [
+    "104.txt",
+    "105.txt",
+    "159.txt",
+    "164.txt",
+    "168.txt",
+    "226.txt",
+    "280.txt",
+    "282.txt",
+    "292.txt",
+    "338.txt",
+    "339.txt",
+    "344.txt",
+    "407.txt",
+    "409.txt",
+    "451.txt",
+    "456.txt",
+    "457.txt",
+    "458.txt",
+    "498.txt",
+    "500.txt",
+    "501.txt",
+    "99.txt"
+   ],
+   "count": 25,
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới320giây"
+  },
+  {
+   "records": [
+    "110.txt",
+    "112.txt",
+    "113.txt",
+    "117.txt",
+    "119.txt",
+    "122.txt",
+    "123.txt",
+    "124.txt",
+    "177.txt",
+    "182.txt",
+    "183.txt",
+    "243.txt",
+    "249.txt",
+    "300.txt",
+    "303.txt",
+    "419.txt",
+    "423.txt",
+    "469.txt",
+    "470.txt"
+   ],
+   "count": 25,
+   "sample": "designedaneventdrivenarchitectureonkafkahandling20000eventspersecond"
+  },
+  {
+   "records": [
+    "120.txt",
+    "121.txt",
+    "179.txt",
+    "184.txt",
+    "187.txt",
+    "247.txt",
+    "294.txt",
+    "297.txt",
+    "301.txt",
+    "354.txt",
+    "356.txt",
+    "364.txt",
+    "413.txt",
+    "418.txt",
+    "463.txt",
+    "464.txt",
+    "467.txt",
+    "472.txt",
+    "503.txt",
+    "506.txt",
+    "511.txt",
+    "512.txt",
+    "514.txt"
+   ],
+   "count": 25,
+   "sample": "thiếtkếkiếntrúceventdrivenvớikafkaxửlý10000sựkiệnmỗigiây"
+  },
+  {
+   "records": [
+    "102.txt",
+    "165.txt",
+    "291.txt",
+    "341.txt",
+    "342.txt",
+    "405.txt",
+    "489.txt",
+    "492.txt",
+    "92.txt"
+   ],
+   "count": 24,
+   "sample": "raisedpreproductiondefectdetectionto85%"
+  },
+  {
+   "records": [
+    "108.txt",
+    "158.txt",
+    "162.txt",
+    "166.txt",
+    "170.txt",
+    "174.txt",
+    "228.txt",
+    "293.txt",
+    "340.txt",
+    "341.txt",
+    "342.txt",
+    "349.txt",
+    "404.txt",
+    "410.txt",
+    "454.txt",
+    "489.txt",
+    "492.txt",
+    "92.txt",
+    "97.txt",
+    "98.txt"
+   ],
+   "count": 24,
+   "sample": "primaryarchitectfor15services"
+  },
+  {
+   "records": [
+    "100.txt",
+    "101.txt",
+    "106.txt",
+    "109.txt",
+    "173.txt",
+    "227.txt",
+    "235.txt",
+    "346.txt",
+    "409.txt",
+    "412.txt",
+    "500.txt",
+    "95.txt"
+   ],
+   "count": 24,
+   "sample": "đưatỷlệlỗipháthiệntrướckhilênproductionlên88%"
+  },
+  {
+   "records": [
+    "340.txt",
+    "343.txt",
+    "345.txt",
+    "349.txt",
+    "404.txt",
+    "493.txt",
+    "494.txt",
+    "496.txt",
+    "97.txt"
+   ],
+   "count": 24,
+   "sample": "raisedpreproductiondefectdetectionto90%"
+  },
+  {
+   "records": [
+    "120.txt",
+    "187.txt",
+    "188.txt",
+    "190.txt",
+    "247.txt",
+    "298.txt",
+    "299.txt",
+    "301.txt",
+    "353.txt",
+    "354.txt",
+    "360.txt",
+    "362.txt",
+    "418.txt",
+    "421.txt",
+    "422.txt",
+    "424.txt",
+    "467.txt",
+    "506.txt",
+    "508.txt",
+    "509.txt",
+    "510.txt",
+    "513.txt",
+    "514.txt"
+   ],
+   "count": 24,
+   "sample": "thiếtkếkiếntrúceventdrivenvớikafkaxửlý20000sựkiệnmỗigiây"
+  },
+  {
+   "records": [
+    "126.txt",
+    "131.txt",
+    "191.txt",
+    "192.txt",
+    "194.txt",
+    "195.txt",
+    "197.txt",
+    "199.txt",
+    "253.txt",
+    "257.txt",
+    "306.txt",
+    "309.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "425.txt",
+    "427.txt",
+    "473.txt",
+    "475.txt"
+   ],
+   "count": 24,
+   "sample": "xâydựnglộtrìnhchuyểnđổisốcho5sảnphẩmcủacôngty"
+  },
+  {
+   "records": [
+    "107.txt",
+    "226.txt",
+    "231.txt",
+    "236.txt",
+    "237.txt",
+    "402.txt",
+    "403.txt",
+    "459.txt",
+    "498.txt",
+    "93.txt"
+   ],
+   "count": 23,
+   "sample": "đưatỷlệlỗipháthiệntrướckhilênproductionlên70%"
+  },
+  {
+   "records": [
+    "135.txt",
+    "136.txt",
+    "139.txt",
+    "143.txt",
+    "202.txt",
+    "203.txt",
+    "207.txt",
+    "259.txt",
+    "261.txt",
+    "263.txt",
+    "265.txt",
+    "312.txt",
+    "313.txt",
+    "317.txt",
+    "319.txt",
+    "320.txt",
+    "322.txt",
+    "371.txt",
+    "373.txt",
+    "376.txt",
+    "381.txt",
+    "432.txt",
+    "438.txt"
+   ],
+   "count": 23,
+   "sample": "thamgiaviếttàiliệukỹthuậtvàhỗtrợkiểmthửsautriểnkhai"
+  },
+  {
+   "records": [
+    "148.txt",
+    "151.txt",
+    "153.txt",
+    "213.txt",
+    "214.txt",
+    "222.txt",
+    "223.txt",
+    "266.txt",
+    "326.txt",
+    "330.txt",
+    "331.txt",
+    "335.txt",
+    "390.txt",
+    "393.txt",
+    "397.txt",
+    "443.txt",
+    "481.txt",
+    "483.txt",
+    "88.txt",
+    "90.txt"
+   ],
+   "count": 22,
+   "sample": "tíchhợpthanhtoántrựctuyếnvới6đốitác"
+  },
+  {
+   "records": [
+    "148.txt",
+    "151.txt",
+    "213.txt",
+    "225.txt",
+    "274.txt",
+    "325.txt",
+    "330.txt",
+    "331.txt",
+    "384.txt",
+    "386.txt",
+    "387.txt",
+    "388.txt",
+    "394.txt",
+    "395.txt",
+    "440.txt",
+    "443.txt",
+    "444.txt",
+    "481.txt",
+    "88.txt",
+    "89.txt"
+   ],
+   "count": 22,
+   "sample": "thiếtkếkiếntrúc12servicevớigiaotiếpquarestgrpc"
+  }
+ ],
+ "records": [
+  {
+   "file": "1.txt",
+   "line": 1,
+   "issues": [
+    {
+     "path": "output.experience[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Phát triển nhiều sản phẩm cá nhân bao gồm công cụ auto deploy, game nông trại 2D trên Telegram, ứng dụng đặt xe, ứng dụng xem phim, website đặt vé xem phim, AI Agent tự động post nội dung chuẩn SEO và"
+    },
+    {
+     "path": "output.experience[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Công nghệ sử dụng: Front-end Angular, Flutter; Back-end Node.js, Express.js, Socket.io; Cơ sở dữ liệu MongoDB; DevOps Docker, CI/CD, Nginx."
+    },
+    {
+     "path": "output.personal_projects[4].description",
+     "type": "ungrounded_bullet",
+     "detail": "Tích hợp hệ thống phân quyền với Auth JWT, cho phép admin quản lý dữ liệu và người dùng thực hiện các giao dịch (nạp rút"
+    }
+   ]
+  },
+  {
+   "file": "2.txt",
+   "line": 2,
+   "issues": [
+    {
+     "path": "output.skills",
+     "type": "ungrounded",
+     "detail": "Vertical Slice Architecture"
+    },
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": ".NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture (Udemy & Mehmet Ozkaya)"
+    }
+   ]
+  },
+  {
+   "file": "4.txt",
+   "line": 4,
+   "issues": [
+    {
+     "path": "output.personal_projects[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Responsibilities: developed the real-time bidding feature using RabbitMQ to publish and subscribe to bids, combined with"
+    }
+   ]
+  },
+  {
+   "file": "5.txt",
+   "line": 5,
+   "issues": [
+    {
+     "path": "output.experience[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Language: php, laravel, html, css, js."
+    }
+   ]
+  },
+  {
+   "file": "7.txt",
+   "line": 7,
+   "issues": [
+    {
+     "path": "output.languages[0].language",
+     "type": "ungrounded",
+     "detail": "'English' không có căn cứ trong input"
+    },
+    {
+     "path": "output.languages[0].note",
+     "type": "ungrounded",
+     "detail": "'Toeic: 815; Able to read foreign books and documents' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "9.txt",
+   "line": 9,
+   "issues": [
+    {
+     "path": "output.personal_projects[1].name",
+     "type": "ungrounded",
+     "detail": "'E-commerce website - HNshop (React + ASP.NET Web API)' không có căn cứ trong input"
+    },
+    {
+     "path": "output.languages[0].note",
+     "type": "ungrounded",
+     "detail": "'Level B certificate (2019) | Intermediate' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "11.txt",
+   "line": 10,
+   "issues": [
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "Mục tiêu của tôi là trở thành một backend developer, có thể xây dựng các phần mềm với ứng dụng thực tế, đồng thời không ngừng nâng cao kỹ năng công nghệ và tư d"
+    },
+    {
+     "path": "output.personal_projects[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Chức năng chính: Đăng ký, Đăng nhập sử dụng JWT kết hợp cookie để xác thực, kết hợp sử dụng captcha tự tạo (canvas) để t"
+    },
+    {
+     "path": "output.personal_projects[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Hệ thống game online, sử dụng thư viện 3D cho frontend, kết hợp microservices architecture cho backend; Frontend: sử dụng React-typescript, fiber three để cho người dùng tùy chỉnh ngoại hình cho model 3D, tạo sảnh cho người "
+    },
+    {
+     "path": "output.languages[0].language",
+     "type": "ungrounded",
+     "detail": "'English' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "12.txt",
+   "line": 11,
+   "issues": [
+    {
+     "path": "output.personal_projects[0].start_date",
+     "type": "ungrounded",
+     "detail": "'10/2024' không có căn cứ trong input"
+    },
+    {
+     "path": "output.skills",
+     "type": "duplicate_item",
+     "detail": "NuxtJS"
+    }
+   ]
+  },
+  {
+   "file": "15.txt",
+   "line": 14,
+   "issues": [
+    {
+     "path": "output.honours",
+     "type": "ungrounded",
+     "detail": "First Prize – Student Scientific Research Competition (Faculty Level), 2025"
+    },
+    {
+     "path": "output.honours",
+     "type": "ungrounded",
+     "detail": "First Prize – Student Scientific Research Competition (University Level), 2025"
+    },
+    {
+     "path": "output.honours",
+     "type": "ungrounded",
+     "detail": "Third Prize – Student Scientific Research Award (Ministry Level), 2025"
+    }
+   ]
+  },
+  {
+   "file": "16.txt",
+   "line": 15,
+   "issues": [
+    {
+     "path": "output.experience[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Working on an application to support clients for creating orders from Facebook. Position in the project: Backend Developer. Technologies used: Git, NestJS, NodeJS, MongoDB, Docker, Elasticsearch, Post"
+    },
+    {
+     "path": "output.experience[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Working on a project at the request of the company related to the timekeeping and personnel management system for the factory. Position in the project: Backend Developer. Technologies used: NodeJS, ex"
+    },
+    {
+     "path": "output.experience[2].description",
+     "type": "ungrounded_bullet",
+     "detail": "Working on a project at the request of the company related to video conferencing, digital signature. Position in the project: Backend Developer. Technologies used: Laravel Framework, SocketIO, NodeJS,"
+    },
+    {
+     "path": "output.experience[3].description",
+     "type": "ungrounded_bullet",
+     "detail": "Working on a personal project assigned by the company: Build a user management website, integrate chat and display notifications. Position in the project: Developer. Technologies used: Laravel Framewo"
+    }
+   ]
+  },
+  {
+   "file": "17.txt",
+   "line": 16,
+   "issues": [
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "Mong muốn ứng tuyển vị trí về back end java web"
+    },
+    {
+     "path": "output.personal_projects[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Học hỏi cấu trúc, cách phân chia gần sát với thực tế: Repo, model, filter; Chức năng: có các chức năng cơ bản của một web bán hàng: thêm sửa xóa, cập nhật"
+    },
+    {
+     "path": "output.personal_projects[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Các tính năng: các thao tác cơ bản, gửi email (thymeleaf template)"
+    },
+    {
+     "path": "output.personal_projects[2].name",
+     "type": "ungrounded",
+     "detail": "'Frontend Project' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "19.txt",
+   "line": 18,
+   "issues": [
+    {
+     "path": "output.personal_info.github_url",
+     "type": "ungrounded",
+     "detail": "'https://github.com/hoangtuyen04work/socialnetwork-v2' không có căn cứ trong input"
+    },
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "I am seeking a Java Back-end Developer job to apply my Java and Spring framework knowledge"
+    },
+    {
+     "path": "output.personal_projects[0].start_date",
+     "type": "ungrounded",
+     "detail": "'05/2024' không có căn cứ trong input"
+    },
+    {
+     "path": "output.personal_projects[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Backend - Function: Login, logout, signup, upload post, like, comment, add friend, unfriend, check profile, search, send"
+    },
+    {
+     "path": "output.personal_projects[1].name",
+     "type": "ungrounded",
+     "detail": "'Social media (Frontend)' không có căn cứ trong input"
+    },
+    {
+     "path": "output.personal_projects[1].start_date",
+     "type": "ungrounded",
+     "detail": "'05/2024' không có căn cứ trong input"
+    },
+    {
+     "path": "output.personal_projects[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Frontend - Function: Login, logout, signup, upload post, like, comment, add friend, unfriend, check profile, search"
+    },
+    {
+     "path": "output.skills",
+     "type": "ungrounded",
+     "detail": "Develop Restful API app service with Spring Boot"
+    }
+   ]
+  },
+  {
+   "file": "20.txt",
+   "line": 19,
+   "issues": [
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": "English Communication for Tech Professionals - Cousera (2024)"
+    }
+   ]
+  },
+  {
+   "file": "21.txt",
+   "line": 20,
+   "issues": [
+    {
+     "path": "output.personal_info.phone",
+     "type": "ungrounded",
+     "detail": "'xxxxxxxxxx0' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "23.txt",
+   "line": 22,
+   "issues": [
+    {
+     "path": "output.personal_projects[0].role",
+     "type": "ungrounded",
+     "detail": "'Back-end Developer / Team Leader' không có căn cứ trong input"
+    },
+    {
+     "path": "output.personal_projects[1].role",
+     "type": "ungrounded",
+     "detail": "'Back-end Developer / Team Leader' không có căn cứ trong input"
+    },
+    {
+     "path": "output.honours",
+     "type": "ungrounded",
+     "detail": "Selling sandwiches for charity fundraising (06/2024 - 08/2024): Selling sandwiches with 100% of the profits going towards purchasing books and stationery for un"
+    }
+   ]
+  },
+  {
+   "file": "24.txt",
+   "line": 23,
+   "issues": [
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "Dài hạn: Sau 5 năm trở thành một Full Stack Developer chuyên nghiệp"
+    }
+   ]
+  },
+  {
+   "file": "26.txt",
+   "line": 25,
+   "issues": [
+    {
+     "path": "output.personal_projects[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Backend - Function: Login, logout, signup, upload post, like, comment, add friend, unfriend, check profile, search, send"
+    },
+    {
+     "path": "output.personal_projects[1].name",
+     "type": "ungrounded",
+     "detail": "'Social media (Frontend)' không có căn cứ trong input"
+    },
+    {
+     "path": "output.personal_projects[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Frontend - Function: Login, logout, signup, upload post, like, comment, add friend, unfriend, check profile, search"
+    },
+    {
+     "path": "output.skills",
+     "type": "ungrounded",
+     "detail": "Develop Restful API app service with Spring Boot"
+    }
+   ]
+  },
+  {
+   "file": "29.txt",
+   "line": 27,
+   "issues": [
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": "Foudation C# on freeCodeCamp (2024)"
+    },
+    {
+     "path": "output.honours",
+     "type": "ungrounded",
+     "detail": "First prize in the 4th Student Informatics Olympiad at Dong Thap University (2024)"
+    },
+    {
+     "path": "output.honours",
+     "type": "ungrounded",
+     "detail": "Second prize in Software Innovation for the 3nd time at Dong Thap University (2023)"
+    },
+    {
+     "path": "output.honours",
+     "type": "ungrounded",
+     "detail": "First Prize in the 3nd Student Informatics Olympiad at Dong Thap University (2022)"
+    },
+    {
+     "path": "output.honours",
+     "type": "ungrounded",
+     "detail": "First Prize in the 2nd Student Informatics Olympiad at Dong Thap University (2021)"
+    }
+   ]
+  },
+  {
+   "file": "30.txt",
+   "line": 28,
+   "issues": [
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "Là một sinh viên mới tốt nghiệp chuyên ngành lập trình phần mềm và có kiến thức cơ bản về OOP và Restful API"
+    }
+   ]
+  },
+  {
+   "file": "33.txt",
+   "line": 31,
+   "issues": [
+    {
+     "path": "output.languages[0].language",
+     "type": "ungrounded",
+     "detail": "'English' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "34.txt",
+   "line": 32,
+   "issues": [
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "Mục tiêu ngắn hạn: Là một sinh viên Công Nghệ Thông Tin, với những kiến thức đã học em mong muốn được thực tập vị trí backend Developer để học hỏi kinh nghiệm t"
+    }
+   ]
+  },
+  {
+   "file": "38.txt",
+   "line": 36,
+   "issues": [
+    {
+     "path": "output.languages[0].language",
+     "type": "ungrounded",
+     "detail": "'English' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "40.txt",
+   "line": 38,
+   "issues": [
+    {
+     "path": "output.skills",
+     "type": "ungrounded",
+     "detail": "Làm việc nhóm: Vui vẻ, hòa đồng, học hỏi trao đồi kinh nghiệm"
+    },
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": "BACK-END DEVELOPMENT (C# OOP AND SQL SERVER) - 2021"
+    },
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": "FULL STACK WEB DEV (JQUERY AJAX - REACT - WEB API) - 2022"
+    }
+   ]
+  },
+  {
+   "file": "42.txt",
+   "line": 40,
+   "issues": [
+    {
+     "path": "output.personal_projects[0].start_date",
+     "type": "ungrounded",
+     "detail": "'18/03/2022' không có căn cứ trong input"
+    },
+    {
+     "path": "output.personal_projects[0].end_date",
+     "type": "ungrounded",
+     "detail": "'25/03/2022' không có căn cứ trong input"
+    },
+    {
+     "path": "output.personal_projects[1].start_date",
+     "type": "ungrounded",
+     "detail": "'18/03/2024' không có căn cứ trong input"
+    },
+    {
+     "path": "output.personal_projects[1].end_date",
+     "type": "ungrounded",
+     "detail": "'22/06/2024' không có căn cứ trong input"
+    },
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": "English: Aptis General B1 (15/3/2022)"
+    }
+   ]
+  },
+  {
+   "file": "43.txt",
+   "line": 41,
+   "issues": [
+    {
+     "path": "output.languages[0].language",
+     "type": "ungrounded",
+     "detail": "'English' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "45.txt",
+   "line": 43,
+   "issues": [
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": "English B1 Certificate (2024)"
+    },
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": "SQL (Basic) Certificate (2026)"
+    },
+    {
+     "path": "output.languages[0].note",
+     "type": "ungrounded",
+     "detail": "'B1 Certificate (2024)' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "47.txt",
+   "line": 44,
+   "issues": [
+    {
+     "path": "output.languages[0].note",
+     "type": "ungrounded",
+     "detail": "'Good – able to read technical documents fluently (B1)' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "48.txt",
+   "line": 45,
+   "issues": [
+    {
+     "path": "output.education[0].school",
+     "type": "ungrounded",
+     "detail": "'Không nêu trong CV' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "49.txt",
+   "line": 46,
+   "issues": [
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": "Completed a DS/AI (2025) from Full Stack Data Science"
+    },
+    {
+     "path": "output.languages[0].language",
+     "type": "ungrounded",
+     "detail": "'English' không có căn cứ trong input"
+    },
+    {
+     "path": "output.languages[0].note",
+     "type": "ungrounded",
+     "detail": "'TOEIC (4 Skills) - Listening & Reading: 780; Speaking & Writing: 270' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "53.txt",
+   "line": 50,
+   "issues": [
+    {
+     "path": "output.experience[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Participated in web development, using Laravel framework, learning and developing MVC models using HTML, CSS, JS, Bootstrap."
+    },
+    {
+     "path": "output.experience[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "I am have had opportunities to explore Docker."
+    },
+    {
+     "path": "output.personal_projects[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Testing APIs by Postman before it goes live to identify any problems"
+    }
+   ]
+  },
+  {
+   "file": "55.txt",
+   "line": 52,
+   "issues": [
+    {
+     "path": "output.personal_info.github_url",
+     "type": "ungrounded",
+     "detail": "'https://github.com/NguyenManhCuongKawoa' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "58.txt",
+   "line": 53,
+   "issues": [
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "Proficient in tools like pfSense, OpenWRT, Checkmk, and Ansible, with growing exposure to DevOps and automation-driven tooling to build scalable, secure systems"
+    },
+    {
+     "path": "output.experience[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Deployed and configured enterprise software for clients at EVN SPCIT, strengthening hands-on experience in enterprise IT deployment and client-facing technical support."
+    },
+    {
+     "path": "output.personal_projects[0].description",
+     "type": "ungrounded_bullet",
+     "detail": "Developed an intelligent edge-computing agent that uses solar-energy data, battery status, queue pressure, and workload "
+    },
+    {
+     "path": "output.personal_projects[2].description",
+     "type": "ungrounded_bullet",
+     "detail": "Built a simulated IT helpdesk using FreePBX and RustDesk with CID-based client matching and GPO-managed remote access, s"
+    },
+    {
+     "path": "output.skills",
+     "type": "ungrounded",
+     "detail": "System & Network Tools: pfSense"
+    },
+    {
+     "path": "output.skills",
+     "type": "ungrounded",
+     "detail": "Infrastructure-as-Code (IaC)"
+    }
+   ]
+  },
+  {
+   "file": "64.txt",
+   "line": 54,
+   "issues": [
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "Third-year Software Engineering student passionate about Backend development, backed by hands-on projects in JavaEE, Spring Boot, MySQL — seeking an internship "
+    }
+   ]
+  },
+  {
+   "file": "65.txt",
+   "line": 55,
+   "issues": [
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "I focus on writing clean, maintainable code and have independently delivered two live projects"
+    }
+   ]
+  },
+  {
+   "file": "68.txt",
+   "line": 56,
+   "issues": [
+    {
+     "path": "output.education[0].major",
+     "type": "ungrounded",
+     "detail": "'Bachelor of Software Engineering, Specialization: .NET' không có căn cứ trong input"
+    },
+    {
+     "path": "output.personal_projects[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Developed a multi-tenant SaaS platform for automated invoice processing and supplier risk assessment using AI-powered OC"
+    },
+    {
+     "path": "output.certificates",
+     "type": "ungrounded",
+     "detail": "AWS First Cloud AI Journey Participant"
+    }
+   ]
+  },
+  {
+   "file": "70.txt",
+   "line": 57,
+   "issues": [
+    {
+     "path": "output.languages[0].note",
+     "type": "ungrounded",
+     "detail": "'CEFR B1' không có căn cứ trong input"
+    }
+   ]
+  },
+  {
+   "file": "81.txt",
+   "line": 58,
+   "issues": [
+    {
+     "path": "output.personal_info.email",
+     "type": "ungrounded",
+     "detail": "'congsang9738@gmail.com' không có căn cứ trong input"
+    },
+    {
+     "path": "output.objective",
+     "type": "ungrounded_sentence",
+     "detail": "Recent Information Technology graduate with hands-on experience in computer vision and AI applications, including industrial defect inspection and real-time fac"
+    },
+    {
+     "path": "output.personal_projects[0].role",
+     "type": "ungrounded",
+     "detail": "'AI / Computer Vision Engineer' không có căn cứ trong input"
+    },
+    {
+     "path": "output",
+     "type": "overused_description",
+     "detail": "dùng 2 lần nhưng văn bản chỉ có 1 lần (entity đầu: 81.txt#exp[0]): appliedproductionqualityknowledgetothecomputervisioninspectionproject"
+    }
+   ]
+  },
+  {
+   "file": "82.txt",
+   "line": 59,
+   "issues": [
+    {
+     "path": "output.personal_projects[1].description",
+     "type": "ungrounded_bullet",
+     "detail": "Implemented 15+ pruning and move-ordering heuristics across a 56-parameter tunable search configuration"
+    }
+   ]
+  }
+ ]
+}

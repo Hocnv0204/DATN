@@ -1,0 +1,990 @@
+{
+  "records": [
+    {
+      "file": "real_pdf_01.txt",
+      "source": "dataset/pdf/01.pdf",
+      "kind": "pdf",
+      "chars": 5094,
+      "n_pages": 3,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_02.txt",
+      "source": "dataset/pdf/02.pdf",
+      "kind": "pdf",
+      "chars": 2335,
+      "n_pages": 2,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "pdf_text+ocr"
+    },
+    {
+      "file": "real_pdf_03.txt",
+      "source": "dataset/pdf/03.pdf",
+      "kind": "pdf",
+      "chars": 2239,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_04.txt",
+      "source": "dataset/pdf/04.pdf",
+      "kind": "pdf",
+      "chars": 5049,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_05.txt",
+      "source": "dataset/pdf/05.pdf",
+      "kind": "pdf",
+      "chars": 1737,
+      "n_pages": 2,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "pdf_text+ocr"
+    },
+    {
+      "file": "real_pdf_06.txt",
+      "source": "dataset/pdf/06.pdf",
+      "kind": "pdf",
+      "chars": 1150,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_07.txt",
+      "source": "dataset/pdf/07.pdf",
+      "kind": "pdf",
+      "chars": 2041,
+      "n_pages": 2,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "pdf_text+ocr"
+    },
+    {
+      "file": "real_pdf_08.txt",
+      "source": "dataset/pdf/08.pdf",
+      "kind": "pdf",
+      "chars": 1719,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_09.txt",
+      "source": "dataset/pdf/09.pdf",
+      "kind": "pdf",
+      "chars": 3096,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_10.txt",
+      "source": "dataset/pdf/10.pdf",
+      "kind": "pdf",
+      "chars": 2196,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "pdf_text+ocr"
+    },
+    {
+      "file": "real_pdf_11.txt",
+      "source": "dataset/pdf/11.pdf",
+      "kind": "pdf",
+      "chars": 3824,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_12.txt",
+      "source": "dataset/pdf/12.pdf",
+      "kind": "pdf",
+      "chars": 2612,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_13.txt",
+      "source": "dataset/pdf/13.pdf",
+      "kind": "pdf",
+      "chars": 1586,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_14.txt",
+      "source": "dataset/pdf/14.pdf",
+      "kind": "pdf",
+      "chars": 4712,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_15.txt",
+      "source": "dataset/pdf/15.pdf",
+      "kind": "pdf",
+      "chars": 6104,
+      "n_pages": 3,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_16.txt",
+      "source": "dataset/pdf/16.pdf",
+      "kind": "pdf",
+      "chars": 4806,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_17.txt",
+      "source": "dataset/pdf/17.pdf",
+      "kind": "pdf",
+      "chars": 2198,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_18.txt",
+      "source": "dataset/pdf/18.pdf",
+      "kind": "pdf",
+      "chars": 1530,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_19.txt",
+      "source": "dataset/pdf/19.pdf",
+      "kind": "pdf",
+      "chars": 1541,
+      "n_pages": 2,
+      "n_ocr_pages": 2,
+      "n_errors": 0,
+      "method": "pdf_text+ocr"
+    },
+    {
+      "file": "real_pdf_20.txt",
+      "source": "dataset/pdf/20.pdf",
+      "kind": "pdf",
+      "chars": 2707,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_21.txt",
+      "source": "dataset/pdf/21.pdf",
+      "kind": "pdf",
+      "chars": 2810,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_22.txt",
+      "source": "dataset/pdf/22.pdf",
+      "kind": "pdf",
+      "chars": 3554,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_23.txt",
+      "source": "dataset/pdf/23.pdf",
+      "kind": "pdf",
+      "chars": 2126,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_24.txt",
+      "source": "dataset/pdf/24.pdf",
+      "kind": "pdf",
+      "chars": 2767,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_25.txt",
+      "source": "dataset/pdf/25.pdf",
+      "kind": "pdf",
+      "chars": 1697,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_26.txt",
+      "source": "dataset/pdf/26.pdf",
+      "kind": "pdf",
+      "chars": 2327,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_27.txt",
+      "source": "dataset/pdf/27.pdf",
+      "kind": "pdf",
+      "chars": 2372,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_28.txt",
+      "source": "dataset/pdf/28.pdf",
+      "kind": "pdf",
+      "chars": 2439,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_29.txt",
+      "source": "dataset/pdf/29.pdf",
+      "kind": "pdf",
+      "chars": 4253,
+      "n_pages": 4,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "pdf_text+ocr"
+    },
+    {
+      "file": "real_pdf_30.txt",
+      "source": "dataset/pdf/30.pdf",
+      "kind": "pdf",
+      "chars": 5274,
+      "n_pages": 3,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_31.txt",
+      "source": "dataset/pdf/31.pdf",
+      "kind": "pdf",
+      "chars": 1767,
+      "n_pages": 2,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "pdf_text+ocr"
+    },
+    {
+      "file": "real_pdf_32.txt",
+      "source": "dataset/pdf/32.pdf",
+      "kind": "pdf",
+      "chars": 3144,
+      "n_pages": 3,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_33.txt",
+      "source": "dataset/pdf/33.pdf",
+      "kind": "pdf",
+      "chars": 3413,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_34.txt",
+      "source": "dataset/pdf/34.pdf",
+      "kind": "pdf",
+      "chars": 2878,
+      "n_pages": 2,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "pdf_text+ocr"
+    },
+    {
+      "file": "real_pdf_35.txt",
+      "source": "dataset/pdf/35.pdf",
+      "kind": "pdf",
+      "chars": 4776,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_36.txt",
+      "source": "dataset/pdf/36.pdf",
+      "kind": "pdf",
+      "chars": 2816,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_37.txt",
+      "source": "dataset/pdf/37.pdf",
+      "kind": "pdf",
+      "chars": 3086,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_38.txt",
+      "source": "dataset/pdf/38.pdf",
+      "kind": "pdf",
+      "chars": 6422,
+      "n_pages": 3,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_39.txt",
+      "source": "dataset/pdf/39.pdf",
+      "kind": "pdf",
+      "chars": 2643,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_40.txt",
+      "source": "dataset/pdf/40.pdf",
+      "kind": "pdf",
+      "chars": 3900,
+      "n_pages": 3,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_41.txt",
+      "source": "dataset/pdf/41.pdf",
+      "kind": "pdf",
+      "chars": 2120,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_42.txt",
+      "source": "dataset/pdf/42.pdf",
+      "kind": "pdf",
+      "chars": 3186,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_43.txt",
+      "source": "dataset/pdf/43.pdf",
+      "kind": "pdf",
+      "chars": 1958,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_44.txt",
+      "source": "dataset/pdf/44.pdf",
+      "kind": "pdf",
+      "chars": 2305,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_45.txt",
+      "source": "dataset/pdf/45.pdf",
+      "kind": "pdf",
+      "chars": 1841,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_46.txt",
+      "source": "dataset/pdf/46.pdf",
+      "kind": "pdf",
+      "chars": 848,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_47.txt",
+      "source": "dataset/pdf/47.pdf",
+      "kind": "pdf",
+      "chars": 2777,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_48.txt",
+      "source": "dataset/pdf/48.pdf",
+      "kind": "pdf",
+      "chars": 4490,
+      "n_pages": 3,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_49.txt",
+      "source": "dataset/pdf/49.pdf",
+      "kind": "pdf",
+      "chars": 3408,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_50.txt",
+      "source": "dataset/pdf/50.pdf",
+      "kind": "pdf",
+      "chars": 2497,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_51.txt",
+      "source": "dataset/pdf/51.pdf",
+      "kind": "pdf",
+      "chars": 1959,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_52.txt",
+      "source": "dataset/pdf/52.pdf",
+      "kind": "pdf",
+      "chars": 2400,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_53.txt",
+      "source": "dataset/pdf/53.pdf",
+      "kind": "pdf",
+      "chars": 2229,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_54.txt",
+      "source": "dataset/pdf/54.pdf",
+      "kind": "pdf",
+      "chars": 2668,
+      "n_pages": 1,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_55.txt",
+      "source": "dataset/pdf/55.pdf",
+      "kind": "pdf",
+      "chars": 3000,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_pdf_56.txt",
+      "source": "dataset/pdf/56.pdf",
+      "kind": "pdf",
+      "chars": 2082,
+      "n_pages": 2,
+      "n_ocr_pages": 0,
+      "n_errors": 0,
+      "method": "pdf_text"
+    },
+    {
+      "file": "real_img_01.txt",
+      "source": "dataset/img/676460401_1491690069157795_329688216786834641_n.jpg",
+      "kind": "img",
+      "chars": 2189,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1447,
+        2048
+      ]
+    },
+    {
+      "file": "real_img_02.txt",
+      "source": "dataset/img/725439858_1873578073316779_7323358596027209223_n.jpg",
+      "kind": "img",
+      "chars": 2242,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1398,
+        1830
+      ]
+    },
+    {
+      "file": "real_img_03.txt",
+      "source": "dataset/img/732178990_2005396753436144_8803544710711078550_n.jpg",
+      "kind": "img",
+      "chars": 3495,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        627,
+        883
+      ]
+    },
+    {
+      "file": "real_img_04.txt",
+      "source": "dataset/img/735504577_122185163456924522_8100757332782693782_n.jpg",
+      "kind": "img",
+      "chars": 3476,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        608,
+        810
+      ]
+    },
+    {
+      "file": "real_img_05.txt",
+      "source": "dataset/img/738235899_27596153650045162_1321004484967667268_n.png",
+      "kind": "img",
+      "chars": 2135,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        660,
+        802
+      ]
+    },
+    {
+      "file": "real_img_06.txt",
+      "source": "dataset/img/747695535_1047753511043935_4462256194117044263_n.png",
+      "kind": "img",
+      "chars": 3533,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        797,
+        891
+      ]
+    },
+    {
+      "file": "real_img_07.txt",
+      "source": "dataset/img/748907840_1596183995558745_2055688181889898573_n.png",
+      "kind": "img",
+      "chars": 2085,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        658,
+        806
+      ]
+    },
+    {
+      "file": "real_img_08.txt",
+      "source": "dataset/img/753707370_2700954703633445_6044933732749901363_n.png",
+      "kind": "img",
+      "chars": 2585,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        737,
+        851
+      ]
+    },
+    {
+      "file": "real_img_09.txt",
+      "source": "dataset/img/755034326_1506813870718173_2109396523897767641_n.png",
+      "kind": "img",
+      "chars": 2680,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1414,
+        2000
+      ]
+    },
+    {
+      "file": "real_img_10.txt",
+      "source": "dataset/img/759017138_1031987863093946_5322721941381413673_n.jpg",
+      "kind": "img",
+      "chars": 2325,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1448,
+        2048
+      ]
+    },
+    {
+      "file": "real_img_11.txt",
+      "source": "dataset/img/762847800_795090270328595_8917621527937378259_n.png",
+      "kind": "img",
+      "chars": 3109,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        714,
+        945
+      ]
+    },
+    {
+      "file": "real_img_12.txt",
+      "source": "dataset/img/763072137_1374379281462120_8046437202228714221_n.png",
+      "kind": "img",
+      "chars": 3161,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        558,
+        718
+      ]
+    },
+    {
+      "file": "real_img_13.txt",
+      "source": "dataset/img/763847552_1557761742477148_6970687263177933664_n.png",
+      "kind": "img",
+      "chars": 3170,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1448,
+        2048
+      ]
+    },
+    {
+      "file": "real_img_14.txt",
+      "source": "dataset/img/774667924_1609013627591199_7249723115610705211_n.jpg",
+      "kind": "img",
+      "chars": 2319,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        879,
+        806
+      ]
+    },
+    {
+      "file": "real_img_15.txt",
+      "source": "dataset/img/775281929_2296150094124444_4536126072639827459_n.jpg",
+      "kind": "img",
+      "chars": 3207,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        809,
+        1049
+      ]
+    },
+    {
+      "file": "real_img_16.txt",
+      "source": "dataset/img/782389543_1692891059341199_7207800148687469695_n.jpg",
+      "kind": "img",
+      "chars": 3030,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        792,
+        1122
+      ]
+    },
+    {
+      "file": "real_img_17.txt",
+      "source": "dataset/img/784019703_1543009733669350_2800073418305165077_n.png",
+      "kind": "img",
+      "chars": 3119,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        518,
+        732
+      ]
+    },
+    {
+      "file": "real_img_18.txt",
+      "source": "dataset/img/786141131_1534784587853288_5198477889852293603_n.png",
+      "kind": "img",
+      "chars": 1784,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        752,
+        801
+      ]
+    },
+    {
+      "file": "real_img_19.txt",
+      "source": "dataset/img/795897937_1527995845776681_1655541425532303728_n.jpg",
+      "kind": "img",
+      "chars": 3461,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        718,
+        1023
+      ]
+    },
+    {
+      "file": "real_img_20.txt",
+      "source": "dataset/img/796691258_1077934688158206_3115665790165410098_n.png",
+      "kind": "img",
+      "chars": 4222,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        765,
+        1078
+      ]
+    },
+    {
+      "file": "real_img_21.txt",
+      "source": "dataset/img/797088201_1074276515517519_9198815750417114154_n.jpg",
+      "kind": "img",
+      "chars": 3461,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        718,
+        1023
+      ]
+    },
+    {
+      "file": "real_img_22.txt",
+      "source": "dataset/img/799143940_1080799374432554_3769734202543431583_n.png",
+      "kind": "img",
+      "chars": 2378,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        597,
+        716
+      ]
+    },
+    {
+      "file": "real_img_23.txt",
+      "source": "dataset/img/801326780_2929557987421314_8340548433544945257_n.png",
+      "kind": "img",
+      "chars": 3113,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        719,
+        783
+      ]
+    },
+    {
+      "file": "real_img_24.txt",
+      "source": "dataset/img/801873373_1117673674282957_8787847902292230574_n.png",
+      "kind": "img",
+      "chars": 1939,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        588,
+        822
+      ]
+    },
+    {
+      "file": "real_img_25.txt",
+      "source": "dataset/img/802030960_1838104340898628_4236408135506992131_n.jpg",
+      "kind": "img",
+      "chars": 3752,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1414,
+        2000
+      ]
+    },
+    {
+      "file": "real_img_26.txt",
+      "source": "dataset/img/807586039_4508054016079231_1740627454174526188_n.jpg",
+      "kind": "img",
+      "chars": 3722,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1055,
+        1491
+      ]
+    },
+    {
+      "file": "real_img_27.txt",
+      "source": "dataset/img/808614284_953924771124984_6546987065224466792_n.jpg",
+      "kind": "img",
+      "chars": 2468,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1241,
+        1754
+      ]
+    },
+    {
+      "file": "real_img_28.txt",
+      "source": "dataset/img/809617918_122192319362764203_6101016307947427173_n.jpg",
+      "kind": "img",
+      "chars": 2641,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        680,
+        872
+      ]
+    },
+    {
+      "file": "real_img_29.txt",
+      "source": "dataset/img/813282851_2131032734117095_8070026641549469456_n.jpg",
+      "kind": "img",
+      "chars": 2808,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1260,
+        1743
+      ]
+    },
+    {
+      "file": "real_img_30.txt",
+      "source": "dataset/img/813421353_3469609166532093_6406449798539126196_n.png",
+      "kind": "img",
+      "chars": 2767,
+      "n_pages": 1,
+      "n_ocr_pages": 1,
+      "n_errors": 0,
+      "method": "img_ocr",
+      "image_size": [
+        1202,
+        1004
+      ]
+    }
+  ],
+  "stats": {
+    "pdf_direct": 48,
+    "pdf_ocr": 8,
+    "img": 30,
+    "dropped": 0
+  }
+}

@@ -1,0 +1,3485 @@
+{
+  "manifest": [
+    {
+      "file": "syn_backend_junior_01_vo-thi-hai.txt",
+      "role": "backend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2333
+    },
+    {
+      "file": "syn_backend_junior_02_khuong-cong-thai.txt",
+      "role": "backend",
+      "level": "junior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 1747
+    },
+    {
+      "file": "syn_backend_junior_03_giang-phuoc-binh.txt",
+      "role": "backend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2556
+    },
+    {
+      "file": "syn_backend_junior_04_bach-huu-phong.txt",
+      "role": "backend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 2973
+    },
+    {
+      "file": "syn_backend_junior_05_le-quang-loc.txt",
+      "role": "backend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3194
+    },
+    {
+      "file": "syn_backend_junior_06_mac-minh-quan.txt",
+      "role": "backend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2970
+    },
+    {
+      "file": "syn_backend_middle_01_ivy-irwin.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3301
+    },
+    {
+      "file": "syn_backend_middle_02_ta-quang-yen.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4326
+    },
+    {
+      "file": "syn_backend_middle_03_cao-uc-kiet.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4182
+    },
+    {
+      "file": "syn_backend_middle_04_khuong-uc-long.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4278
+    },
+    {
+      "file": "syn_backend_middle_05_luu-inh-bao.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3196
+    },
+    {
+      "file": "syn_backend_middle_06_nina-usman.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3162
+    },
+    {
+      "file": "syn_backend_middle_07_grace-singh.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3407
+    },
+    {
+      "file": "syn_backend_middle_08_ho-thanh-giang.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4891
+    },
+    {
+      "file": "syn_backend_middle_09_le-inh-yen.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4164
+    },
+    {
+      "file": "syn_backend_middle_10_to-phuoc-vinh.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4557
+    },
+    {
+      "file": "syn_backend_middle_11_hoang-phuoc-binh.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 4070
+    },
+    {
+      "file": "syn_backend_middle_12_bach-tuan-vinh.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3908
+    },
+    {
+      "file": "syn_backend_middle_13_truong-gia-hung.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 3665
+    },
+    {
+      "file": "syn_backend_middle_14_mai-uc-canh.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3640
+    },
+    {
+      "file": "syn_backend_middle_15_phung-tuan-loc.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4318
+    },
+    {
+      "file": "syn_backend_middle_16_kieu-phuoc-hung.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4043
+    },
+    {
+      "file": "syn_backend_middle_17_nina-reed.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3327
+    },
+    {
+      "file": "syn_backend_middle_18_ang-anh-long.txt",
+      "role": "backend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4160
+    },
+    {
+      "file": "syn_backend_senior_01_rachel-lopez.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3895
+    },
+    {
+      "file": "syn_backend_senior_02_simon-turner.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3880
+    },
+    {
+      "file": "syn_backend_senior_03_kevin-anderson.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2917
+    },
+    {
+      "file": "syn_backend_senior_04_daniel-lopez.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3353
+    },
+    {
+      "file": "syn_backend_senior_05_o-quang-son.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4393
+    },
+    {
+      "file": "syn_backend_senior_06_thai-inh-hai.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3903
+    },
+    {
+      "file": "syn_backend_senior_07_nguyen-xuan-trung.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 5131
+    },
+    {
+      "file": "syn_backend_senior_08_henry-kim.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 2989
+    },
+    {
+      "file": "syn_backend_senior_09_le-minh-phuc.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4756
+    },
+    {
+      "file": "syn_backend_senior_10_ivy-baker.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3663
+    },
+    {
+      "file": "syn_backend_senior_11_ha-gia-khoa.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4252
+    },
+    {
+      "file": "syn_backend_senior_12_bui-huu-van.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4241
+    },
+    {
+      "file": "syn_backend_senior_13_henry-edwards.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3978
+    },
+    {
+      "file": "syn_backend_senior_14_priya-young.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3438
+    },
+    {
+      "file": "syn_backend_senior_15_grace-young.txt",
+      "role": "backend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3331
+    },
+    {
+      "file": "syn_backend_lead_01_bach-thanh-an.txt",
+      "role": "backend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4005
+    },
+    {
+      "file": "syn_backend_lead_02_to-thanh-dung.txt",
+      "role": "backend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4945
+    },
+    {
+      "file": "syn_backend_lead_03_o-hoai-son.txt",
+      "role": "backend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4357
+    },
+    {
+      "file": "syn_backend_lead_04_mai-xuan-trung.txt",
+      "role": "backend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 5550
+    },
+    {
+      "file": "syn_backend_lead_05_brian-miller.txt",
+      "role": "backend",
+      "level": "lead",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 4957
+    },
+    {
+      "file": "syn_backend_lead_06_tran-anh-phong.txt",
+      "role": "backend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4754
+    },
+    {
+      "file": "syn_backend_lead_07_quach-quang-tung.txt",
+      "role": "backend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4786
+    },
+    {
+      "file": "syn_backend_lead_08_nina-green.txt",
+      "role": "backend",
+      "level": "lead",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3234
+    },
+    {
+      "file": "syn_backend_lead_09_henry-baker.txt",
+      "role": "backend",
+      "level": "lead",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 4258
+    },
+    {
+      "file": "syn_frontend_intern_01_grace-carter.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 1952
+    },
+    {
+      "file": "syn_frontend_intern_02_ho-quang-tai.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2169
+    },
+    {
+      "file": "syn_frontend_intern_03_vo-gia-hung.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 2965
+    },
+    {
+      "file": "syn_frontend_intern_04_pham-minh-yen.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 2415
+    },
+    {
+      "file": "syn_frontend_intern_05_tran-minh-vinh.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2521
+    },
+    {
+      "file": "syn_frontend_intern_06_giang-minh-tuan.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2943
+    },
+    {
+      "file": "syn_frontend_intern_07_tu-khanh-trung.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2558
+    },
+    {
+      "file": "syn_frontend_intern_08_ivy-carter.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2383
+    },
+    {
+      "file": "syn_frontend_intern_09_vo-quang-dung.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3301
+    },
+    {
+      "file": "syn_frontend_intern_10_khuong-minh-long.txt",
+      "role": "frontend",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2670
+    },
+    {
+      "file": "syn_frontend_junior_01_pham-gia-an.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2894
+    },
+    {
+      "file": "syn_frontend_junior_02_ly-quang-khoi.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2848
+    },
+    {
+      "file": "syn_frontend_junior_03_vu-xuan-kiet.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 1802
+    },
+    {
+      "file": "syn_frontend_junior_04_bach-ngoc-huy.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2073
+    },
+    {
+      "file": "syn_frontend_junior_05_ly-huu-dung.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3195
+    },
+    {
+      "file": "syn_frontend_junior_06_thai-thi-thang.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3138
+    },
+    {
+      "file": "syn_frontend_junior_07_bach-khac-hung.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3627
+    },
+    {
+      "file": "syn_frontend_junior_08_kieu-thu-nghia.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2310
+    },
+    {
+      "file": "syn_frontend_junior_09_tessa-nguyen.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 2645
+    },
+    {
+      "file": "syn_frontend_junior_10_duong-tuan-khoa.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2442
+    },
+    {
+      "file": "syn_frontend_junior_11_le-cong-binh.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3179
+    },
+    {
+      "file": "syn_frontend_junior_12_doan-uc-van.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3174
+    },
+    {
+      "file": "syn_frontend_junior_13_jack-kim.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 2594
+    },
+    {
+      "file": "syn_frontend_junior_14_ang-ngoc-dung.txt",
+      "role": "frontend",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2303
+    },
+    {
+      "file": "syn_frontend_middle_01_bui-tuan-van.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3340
+    },
+    {
+      "file": "syn_frontend_middle_02_nguyen-huu-yen.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3549
+    },
+    {
+      "file": "syn_frontend_middle_03_ha-thi-thang.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5336
+    },
+    {
+      "file": "syn_frontend_middle_04_o-van-hieu.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3852
+    },
+    {
+      "file": "syn_frontend_middle_05_duong-khanh-yen.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3107
+    },
+    {
+      "file": "syn_frontend_middle_06_ho-anh-bao.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4966
+    },
+    {
+      "file": "syn_frontend_middle_07_inh-inh-hung.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4229
+    },
+    {
+      "file": "syn_frontend_middle_08_chu-xuan-phong.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2628
+    },
+    {
+      "file": "syn_frontend_middle_09_lao-quang-van.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3463
+    },
+    {
+      "file": "syn_frontend_middle_10_o-van-dung.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3712
+    },
+    {
+      "file": "syn_frontend_middle_11_bach-khanh-cuong.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4676
+    },
+    {
+      "file": "syn_frontend_middle_12_bach-cong-quang.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4023
+    },
+    {
+      "file": "syn_frontend_middle_13_nguyen-anh-yen.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3586
+    },
+    {
+      "file": "syn_frontend_middle_14_chu-thi-duy.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3659
+    },
+    {
+      "file": "syn_frontend_middle_15_mason-turner.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3667
+    },
+    {
+      "file": "syn_frontend_middle_16_ang-inh-bao.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4383
+    },
+    {
+      "file": "syn_frontend_middle_17_felix-park.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3358
+    },
+    {
+      "file": "syn_frontend_middle_18_vu-bao-ha.txt",
+      "role": "frontend",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 5337
+    },
+    {
+      "file": "syn_frontend_senior_01_phung-minh-bao.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3353
+    },
+    {
+      "file": "syn_frontend_senior_02_mason-lopez.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3264
+    },
+    {
+      "file": "syn_frontend_senior_03_chris-davis.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3905
+    },
+    {
+      "file": "syn_frontend_senior_04_ong-khanh-loc.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4541
+    },
+    {
+      "file": "syn_frontend_senior_05_mac-cong-quy.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3615
+    },
+    {
+      "file": "syn_frontend_senior_06_o-thi-toan.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4380
+    },
+    {
+      "file": "syn_frontend_senior_07_bach-anh-toan.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3928
+    },
+    {
+      "file": "syn_frontend_senior_08_alex-turner.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2839
+    },
+    {
+      "file": "syn_frontend_senior_09_phan-thi-dung.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4498
+    },
+    {
+      "file": "syn_frontend_senior_10_wendy-reed.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3758
+    },
+    {
+      "file": "syn_frontend_senior_11_bach-thi-phuc.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4080
+    },
+    {
+      "file": "syn_frontend_senior_12_phan-hoai-phuc.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4312
+    },
+    {
+      "file": "syn_frontend_senior_13_cao-huu-quy.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3896
+    },
+    {
+      "file": "syn_frontend_senior_14_vo-huu-phuc.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4134
+    },
+    {
+      "file": "syn_frontend_senior_15_vu-khanh-long.txt",
+      "role": "frontend",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5224
+    },
+    {
+      "file": "syn_frontend_lead_01_doan-gia-hung.txt",
+      "role": "frontend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4706
+    },
+    {
+      "file": "syn_frontend_lead_02_ly-anh-nghia.txt",
+      "role": "frontend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5186
+    },
+    {
+      "file": "syn_frontend_lead_03_vo-cong-viet.txt",
+      "role": "frontend",
+      "level": "lead",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3638
+    },
+    {
+      "file": "syn_frontend_lead_04_duong-minh-van.txt",
+      "role": "frontend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4861
+    },
+    {
+      "file": "syn_frontend_lead_05_quach-khac-canh.txt",
+      "role": "frontend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 5133
+    },
+    {
+      "file": "syn_frontend_lead_06_daniel-reed.txt",
+      "role": "frontend",
+      "level": "lead",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3792
+    },
+    {
+      "file": "syn_frontend_lead_07_kieu-thi-cuong.txt",
+      "role": "frontend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 5016
+    },
+    {
+      "file": "syn_frontend_lead_08_tran-xuan-khoi.txt",
+      "role": "frontend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5012
+    },
+    {
+      "file": "syn_frontend_lead_09_le-uc-nghia.txt",
+      "role": "frontend",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4912
+    },
+    {
+      "file": "syn_devops_intern_01_giang-thu-nam.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2354
+    },
+    {
+      "file": "syn_devops_intern_02_chris-owens.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 2192
+    },
+    {
+      "file": "syn_devops_intern_03_khuong-cong-quan.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2230
+    },
+    {
+      "file": "syn_devops_intern_04_o-thu-tam.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2064
+    },
+    {
+      "file": "syn_devops_intern_05_ben-reed.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2242
+    },
+    {
+      "file": "syn_devops_intern_06_quach-xuan-long.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 2019
+    },
+    {
+      "file": "syn_devops_intern_07_doan-tuan-tai.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2475
+    },
+    {
+      "file": "syn_devops_intern_08_luu-phuoc-van.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2237
+    },
+    {
+      "file": "syn_devops_intern_09_hoang-huu-nam.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2139
+    },
+    {
+      "file": "syn_devops_intern_10_brian-park.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 1743
+    },
+    {
+      "file": "syn_devops_intern_11_chloe-park.txt",
+      "role": "devops",
+      "level": "intern",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2527
+    },
+    {
+      "file": "syn_devops_junior_01_quach-gia-ha.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 2545
+    },
+    {
+      "file": "syn_devops_junior_02_mac-thu-kiet.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 2898
+    },
+    {
+      "file": "syn_devops_junior_03_ta-minh-van.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2898
+    },
+    {
+      "file": "syn_devops_junior_04_truong-phuoc-hai.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 1989
+    },
+    {
+      "file": "syn_devops_junior_05_ong-thi-quan.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2937
+    },
+    {
+      "file": "syn_devops_junior_06_rachel-harris.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2727
+    },
+    {
+      "file": "syn_devops_junior_07_tu-xuan-khoa.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2726
+    },
+    {
+      "file": "syn_devops_junior_08_oscar-vega.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 1959
+    },
+    {
+      "file": "syn_devops_junior_09_ho-khanh-vinh.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2911
+    },
+    {
+      "file": "syn_devops_junior_10_ngo-gia-dung.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2360
+    },
+    {
+      "file": "syn_devops_junior_11_ang-uc-cuong.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2218
+    },
+    {
+      "file": "syn_devops_junior_12_ha-inh-viet.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3550
+    },
+    {
+      "file": "syn_devops_junior_13_tran-van-tung.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3485
+    },
+    {
+      "file": "syn_devops_junior_14_ngo-xuan-giang.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3133
+    },
+    {
+      "file": "syn_devops_junior_15_duong-phuoc-nam.txt",
+      "role": "devops",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 3074
+    },
+    {
+      "file": "syn_devops_middle_01_mac-anh-thai.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4728
+    },
+    {
+      "file": "syn_devops_middle_02_chu-inh-khoi.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4231
+    },
+    {
+      "file": "syn_devops_middle_03_pham-khanh-huy.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3698
+    },
+    {
+      "file": "syn_devops_middle_04_lao-phuoc-binh.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3897
+    },
+    {
+      "file": "syn_devops_middle_05_duong-khac-tung.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3927
+    },
+    {
+      "file": "syn_devops_middle_06_truong-quang-dung.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4110
+    },
+    {
+      "file": "syn_devops_middle_07_inh-inh-bao.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4514
+    },
+    {
+      "file": "syn_devops_middle_08_o-hoai-quang.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4771
+    },
+    {
+      "file": "syn_devops_middle_09_phung-thi-vinh.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4161
+    },
+    {
+      "file": "syn_devops_middle_10_ong-anh-cuong.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3480
+    },
+    {
+      "file": "syn_devops_middle_11_ho-thi-manh.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4343
+    },
+    {
+      "file": "syn_devops_middle_12_thai-inh-canh.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4245
+    },
+    {
+      "file": "syn_devops_middle_13_nguyen-xuan-van.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4375
+    },
+    {
+      "file": "syn_devops_middle_14_vu-tuan-yen.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3924
+    },
+    {
+      "file": "syn_devops_middle_15_o-thi-tung.txt",
+      "role": "devops",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3803
+    },
+    {
+      "file": "syn_devops_senior_01_tu-uc-tuan.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3839
+    },
+    {
+      "file": "syn_devops_senior_02_ta-gia-quy.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4633
+    },
+    {
+      "file": "syn_devops_senior_03_kieu-uc-van.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3818
+    },
+    {
+      "file": "syn_devops_senior_04_ben-xu.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 2910
+    },
+    {
+      "file": "syn_devops_senior_05_chu-uc-dung.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3650
+    },
+    {
+      "file": "syn_devops_senior_06_luu-minh-thang.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4380
+    },
+    {
+      "file": "syn_devops_senior_07_truong-tuan-hieu.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 5057
+    },
+    {
+      "file": "syn_devops_senior_08_tran-cong-dung.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 5230
+    },
+    {
+      "file": "syn_devops_senior_09_hoang-xuan-tuan.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3457
+    },
+    {
+      "file": "syn_devops_senior_10_ang-cong-giang.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3863
+    },
+    {
+      "file": "syn_devops_senior_11_le-uc-binh.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3687
+    },
+    {
+      "file": "syn_devops_senior_12_o-bao-toan.txt",
+      "role": "devops",
+      "level": "senior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3820
+    },
+    {
+      "file": "syn_devops_lead_01_phan-uc-trung.txt",
+      "role": "devops",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3986
+    },
+    {
+      "file": "syn_devops_lead_02_cao-inh-quy.txt",
+      "role": "devops",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5911
+    },
+    {
+      "file": "syn_devops_lead_03_o-khac-quy.txt",
+      "role": "devops",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4432
+    },
+    {
+      "file": "syn_devops_lead_04_alex-kim.txt",
+      "role": "devops",
+      "level": "lead",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 4364
+    },
+    {
+      "file": "syn_devops_lead_05_hoang-khac-dung.txt",
+      "role": "devops",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 5158
+    },
+    {
+      "file": "syn_devops_lead_06_phung-thanh-khoa.txt",
+      "role": "devops",
+      "level": "lead",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3477
+    },
+    {
+      "file": "syn_data_intern_01_doan-khanh-huy.txt",
+      "role": "data",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2115
+    },
+    {
+      "file": "syn_data_intern_02_chris-kim.txt",
+      "role": "data",
+      "level": "intern",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2553
+    },
+    {
+      "file": "syn_data_intern_03_vo-gia-hieu.txt",
+      "role": "data",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2478
+    },
+    {
+      "file": "syn_data_intern_04_ong-ngoc-loc.txt",
+      "role": "data",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2250
+    },
+    {
+      "file": "syn_data_intern_05_cao-khac-phuc.txt",
+      "role": "data",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2728
+    },
+    {
+      "file": "syn_data_intern_06_chris-reed.txt",
+      "role": "data",
+      "level": "intern",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 1635
+    },
+    {
+      "file": "syn_data_intern_07_ngo-hoai-bao.txt",
+      "role": "data",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2282
+    },
+    {
+      "file": "syn_data_junior_01_ang-minh-dung.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3243
+    },
+    {
+      "file": "syn_data_junior_02_emily-davis.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 2082
+    },
+    {
+      "file": "syn_data_junior_03_zane-harris.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 2765
+    },
+    {
+      "file": "syn_data_junior_04_yara-walker.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 2630
+    },
+    {
+      "file": "syn_data_junior_05_grace-turner.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 1830
+    },
+    {
+      "file": "syn_data_junior_06_o-tuan-manh.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2231
+    },
+    {
+      "file": "syn_data_junior_07_rachel-owens.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2299
+    },
+    {
+      "file": "syn_data_junior_08_ong-phuoc-bao.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2607
+    },
+    {
+      "file": "syn_data_junior_09_hoang-thu-cuong.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2828
+    },
+    {
+      "file": "syn_data_junior_10_kieu-quang-phuc.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2617
+    },
+    {
+      "file": "syn_data_junior_11_luu-ngoc-yen.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2492
+    },
+    {
+      "file": "syn_data_junior_12_ong-minh-tuan.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2195
+    },
+    {
+      "file": "syn_data_junior_13_alex-green.txt",
+      "role": "data",
+      "level": "junior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2182
+    },
+    {
+      "file": "syn_data_middle_01_tran-hoai-giang.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4130
+    },
+    {
+      "file": "syn_data_middle_02_to-gia-tai.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3298
+    },
+    {
+      "file": "syn_data_middle_03_cao-huu-toan.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 3638
+    },
+    {
+      "file": "syn_data_middle_04_vu-minh-hung.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4017
+    },
+    {
+      "file": "syn_data_middle_05_bach-uc-binh.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4340
+    },
+    {
+      "file": "syn_data_middle_06_rachel-foster.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2718
+    },
+    {
+      "file": "syn_data_middle_07_phung-van-kiet.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3945
+    },
+    {
+      "file": "syn_data_middle_08_laura-carter.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3403
+    },
+    {
+      "file": "syn_data_middle_09_chu-bao-tung.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4121
+    },
+    {
+      "file": "syn_data_middle_10_mac-van-long.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3741
+    },
+    {
+      "file": "syn_data_middle_11_oscar-baker.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2756
+    },
+    {
+      "file": "syn_data_middle_12_oscar-singh.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3219
+    },
+    {
+      "file": "syn_data_middle_13_daniel-kim.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3262
+    },
+    {
+      "file": "syn_data_middle_14_ninh-anh-toan.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4340
+    },
+    {
+      "file": "syn_data_middle_15_priya-turner.txt",
+      "role": "data",
+      "level": "middle",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 2559
+    },
+    {
+      "file": "syn_data_senior_01_ong-khanh-giang.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3611
+    },
+    {
+      "file": "syn_data_senior_02_luu-ngoc-hieu.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4338
+    },
+    {
+      "file": "syn_data_senior_03_ninh-gia-hai.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3482
+    },
+    {
+      "file": "syn_data_senior_04_lao-thanh-yen.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4483
+    },
+    {
+      "file": "syn_data_senior_05_duong-anh-huy.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 5342
+    },
+    {
+      "file": "syn_data_senior_06_khuong-khanh-viet.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4026
+    },
+    {
+      "file": "syn_data_senior_07_grace-jones.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3198
+    },
+    {
+      "file": "syn_data_senior_08_vu-xuan-van.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4031
+    },
+    {
+      "file": "syn_data_senior_09_doan-thu-an.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4110
+    },
+    {
+      "file": "syn_data_senior_10_henry-irwin.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3436
+    },
+    {
+      "file": "syn_data_senior_11_phung-ngoc-vinh.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 4268
+    },
+    {
+      "file": "syn_data_senior_12_kieu-huu-khoi.txt",
+      "role": "data",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4579
+    },
+    {
+      "file": "syn_data_lead_01_tran-khanh-an.txt",
+      "role": "data",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 5265
+    },
+    {
+      "file": "syn_data_lead_02_thai-ngoc-huy.txt",
+      "role": "data",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4527
+    },
+    {
+      "file": "syn_data_lead_03_nguyen-xuan-canh.txt",
+      "role": "data",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4991
+    },
+    {
+      "file": "syn_data_lead_04_tu-tuan-son.txt",
+      "role": "data",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 5433
+    },
+    {
+      "file": "syn_data_lead_05_nguyen-cong-manh.txt",
+      "role": "data",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5330
+    },
+    {
+      "file": "syn_data_lead_06_phan-khac-bao.txt",
+      "role": "data",
+      "level": "lead",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 4077
+    },
+    {
+      "file": "syn_ba_intern_01_ta-minh-hung.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3024
+    },
+    {
+      "file": "syn_ba_intern_02_ta-huu-son.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2510
+    },
+    {
+      "file": "syn_ba_intern_03_vo-hoai-canh.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2316
+    },
+    {
+      "file": "syn_ba_intern_04_ly-phuoc-khoa.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2021
+    },
+    {
+      "file": "syn_ba_intern_05_phung-huu-giang.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2461
+    },
+    {
+      "file": "syn_ba_intern_06_lao-hoai-vinh.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3373
+    },
+    {
+      "file": "syn_ba_intern_07_mason-miller.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 1981
+    },
+    {
+      "file": "syn_ba_intern_08_mai-quang-khoi.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2643
+    },
+    {
+      "file": "syn_ba_intern_09_bach-van-hieu.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2437
+    },
+    {
+      "file": "syn_ba_intern_10_thai-khac-toan.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2379
+    },
+    {
+      "file": "syn_ba_intern_11_tran-khanh-toan.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 2988
+    },
+    {
+      "file": "syn_ba_intern_12_mac-phuoc-viet.txt",
+      "role": "ba",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3138
+    },
+    {
+      "file": "syn_ba_junior_01_thai-thu-toan.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3209
+    },
+    {
+      "file": "syn_ba_junior_02_bui-gia-giang.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 3118
+    },
+    {
+      "file": "syn_ba_junior_03_duong-inh-viet.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2534
+    },
+    {
+      "file": "syn_ba_junior_04_mason-owens.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2101
+    },
+    {
+      "file": "syn_ba_junior_05_nina-singh.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2476
+    },
+    {
+      "file": "syn_ba_junior_06_phan-thi-quy.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2909
+    },
+    {
+      "file": "syn_ba_junior_07_truong-van-nam.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3093
+    },
+    {
+      "file": "syn_ba_junior_08_phung-thi-an.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 3226
+    },
+    {
+      "file": "syn_ba_junior_09_bach-tuan-hung.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2413
+    },
+    {
+      "file": "syn_ba_junior_10_o-thu-long.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2404
+    },
+    {
+      "file": "syn_ba_junior_11_bui-cong-ha.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3121
+    },
+    {
+      "file": "syn_ba_junior_12_mai-van-viet.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2431
+    },
+    {
+      "file": "syn_ba_junior_13_mac-minh-trung.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 2538
+    },
+    {
+      "file": "syn_ba_junior_14_chris-nguyen.txt",
+      "role": "ba",
+      "level": "junior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 2255
+    },
+    {
+      "file": "syn_ba_middle_01_hoang-van-van.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3598
+    },
+    {
+      "file": "syn_ba_middle_02_kieu-phuoc-kiet.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3891
+    },
+    {
+      "file": "syn_ba_middle_03_mac-thanh-kiet.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3413
+    },
+    {
+      "file": "syn_ba_middle_04_jack-walker.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3472
+    },
+    {
+      "file": "syn_ba_middle_05_quinn-young.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 2780
+    },
+    {
+      "file": "syn_ba_middle_06_chloe-reed.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3679
+    },
+    {
+      "file": "syn_ba_middle_07_ang-quang-toan.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4157
+    },
+    {
+      "file": "syn_ba_middle_08_ngo-inh-binh.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3228
+    },
+    {
+      "file": "syn_ba_middle_09_giang-van-phong.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5043
+    },
+    {
+      "file": "syn_ba_middle_10_thai-khac-quang.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3951
+    },
+    {
+      "file": "syn_ba_middle_11_o-van-long.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3613
+    },
+    {
+      "file": "syn_ba_middle_12_thai-cong-thai.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3232
+    },
+    {
+      "file": "syn_ba_middle_13_mac-hoai-hieu.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3914
+    },
+    {
+      "file": "syn_ba_middle_14_ly-thu-trung.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3796
+    },
+    {
+      "file": "syn_ba_middle_15_hoang-ngoc-ha.txt",
+      "role": "ba",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4482
+    },
+    {
+      "file": "syn_ba_senior_01_phung-hoai-van.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4160
+    },
+    {
+      "file": "syn_ba_senior_02_ta-uc-huy.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4599
+    },
+    {
+      "file": "syn_ba_senior_03_giang-quang-long.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3217
+    },
+    {
+      "file": "syn_ba_senior_04_doan-khanh-hieu.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4852
+    },
+    {
+      "file": "syn_ba_senior_05_ang-huu-yen.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3617
+    },
+    {
+      "file": "syn_ba_senior_06_ha-quang-loc.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3280
+    },
+    {
+      "file": "syn_ba_senior_07_quach-khanh-ha.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4516
+    },
+    {
+      "file": "syn_ba_senior_08_mac-hoai-nghia.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4651
+    },
+    {
+      "file": "syn_ba_senior_09_ly-khanh-kiet.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3491
+    },
+    {
+      "file": "syn_ba_senior_10_lao-quang-dung.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3931
+    },
+    {
+      "file": "syn_ba_senior_11_ninh-van-tai.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3703
+    },
+    {
+      "file": "syn_ba_senior_12_chu-anh-tung.txt",
+      "role": "ba",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5252
+    },
+    {
+      "file": "syn_ba_lead_01_le-anh-dung.txt",
+      "role": "ba",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4449
+    },
+    {
+      "file": "syn_ba_lead_02_duong-khanh-tung.txt",
+      "role": "ba",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5373
+    },
+    {
+      "file": "syn_ba_lead_03_doan-van-thai.txt",
+      "role": "ba",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 5959
+    },
+    {
+      "file": "syn_ba_lead_04_ivy-turner.txt",
+      "role": "ba",
+      "level": "lead",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3820
+    },
+    {
+      "file": "syn_ba_lead_05_quach-van-nghia.txt",
+      "role": "ba",
+      "level": "lead",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 4213
+    },
+    {
+      "file": "syn_ba_lead_06_thai-cong-yen.txt",
+      "role": "ba",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 5193
+    },
+    {
+      "file": "syn_qa_intern_01_luu-thu-tai.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2981
+    },
+    {
+      "file": "syn_qa_intern_02_nguyen-thu-kiet.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3071
+    },
+    {
+      "file": "syn_qa_intern_03_phung-ngoc-kiet.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2452
+    },
+    {
+      "file": "syn_qa_intern_04_ong-phuoc-duy.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 1775
+    },
+    {
+      "file": "syn_qa_intern_05_lao-cong-duy.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2302
+    },
+    {
+      "file": "syn_qa_intern_06_phung-hoai-van.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 2534
+    },
+    {
+      "file": "syn_qa_intern_07_le-phuoc-thai.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2711
+    },
+    {
+      "file": "syn_qa_intern_08_ly-inh-trung.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2882
+    },
+    {
+      "file": "syn_qa_intern_09_kevin-edwards.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 1873
+    },
+    {
+      "file": "syn_qa_intern_10_ngo-minh-tuan.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2575
+    },
+    {
+      "file": "syn_qa_intern_11_ta-inh-an.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2002
+    },
+    {
+      "file": "syn_qa_intern_12_ha-hoai-quy.txt",
+      "role": "qa",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 2961
+    },
+    {
+      "file": "syn_qa_junior_01_le-cong-tung.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3374
+    },
+    {
+      "file": "syn_qa_junior_02_to-khanh-tung.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3148
+    },
+    {
+      "file": "syn_qa_junior_03_henry-nguyen.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 1732
+    },
+    {
+      "file": "syn_qa_junior_04_le-gia-dung.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2833
+    },
+    {
+      "file": "syn_qa_junior_05_bui-cong-huy.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2781
+    },
+    {
+      "file": "syn_qa_junior_06_to-khanh-van.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3329
+    },
+    {
+      "file": "syn_qa_junior_07_duong-bao-toan.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2692
+    },
+    {
+      "file": "syn_qa_junior_08_nguyen-khac-viet.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3212
+    },
+    {
+      "file": "syn_qa_junior_09_lao-inh-bao.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 1839
+    },
+    {
+      "file": "syn_qa_junior_10_rachel-davis.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 2216
+    },
+    {
+      "file": "syn_qa_junior_11_cao-cong-dung.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 2438
+    },
+    {
+      "file": "syn_qa_junior_12_phung-khac-tam.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 2667
+    },
+    {
+      "file": "syn_qa_junior_13_inh-minh-van.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2965
+    },
+    {
+      "file": "syn_qa_junior_14_mai-anh-tung.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 2693
+    },
+    {
+      "file": "syn_qa_junior_15_truong-hoai-duy.txt",
+      "role": "qa",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2785
+    },
+    {
+      "file": "syn_qa_middle_01_bach-xuan-loc.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4343
+    },
+    {
+      "file": "syn_qa_middle_02_ang-van-thai.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3450
+    },
+    {
+      "file": "syn_qa_middle_03_bach-xuan-quan.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3951
+    },
+    {
+      "file": "syn_qa_middle_04_quinn-park.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3209
+    },
+    {
+      "file": "syn_qa_middle_05_ta-khac-hung.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4011
+    },
+    {
+      "file": "syn_qa_middle_06_o-minh-van.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 3979
+    },
+    {
+      "file": "syn_qa_middle_07_vu-gia-toan.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3246
+    },
+    {
+      "file": "syn_qa_middle_08_wendy-turner.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3356
+    },
+    {
+      "file": "syn_qa_middle_09_to-khanh-son.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2659
+    },
+    {
+      "file": "syn_qa_middle_10_ong-anh-bao.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4563
+    },
+    {
+      "file": "syn_qa_middle_11_quach-quang-trung.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3184
+    },
+    {
+      "file": "syn_qa_middle_12_ang-xuan-nghia.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4012
+    },
+    {
+      "file": "syn_qa_middle_13_quinn-lopez.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 2261
+    },
+    {
+      "file": "syn_qa_middle_14_vo-phuoc-khoi.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3068
+    },
+    {
+      "file": "syn_qa_middle_15_tran-huu-quan.txt",
+      "role": "qa",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4755
+    },
+    {
+      "file": "syn_qa_senior_01_o-huu-giang.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4629
+    },
+    {
+      "file": "syn_qa_senior_02_phung-thu-cuong.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 4033
+    },
+    {
+      "file": "syn_qa_senior_03_luu-phuoc-an.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 5165
+    },
+    {
+      "file": "syn_qa_senior_04_inh-van-thang.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3368
+    },
+    {
+      "file": "syn_qa_senior_05_inh-khac-thang.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4481
+    },
+    {
+      "file": "syn_qa_senior_06_ta-gia-tung.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4496
+    },
+    {
+      "file": "syn_qa_senior_07_bui-anh-hai.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3110
+    },
+    {
+      "file": "syn_qa_senior_08_giang-thi-hung.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 5367
+    },
+    {
+      "file": "syn_qa_senior_09_phung-gia-loc.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4260
+    },
+    {
+      "file": "syn_qa_senior_10_pham-hoai-quang.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4606
+    },
+    {
+      "file": "syn_qa_senior_11_truong-van-long.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3810
+    },
+    {
+      "file": "syn_qa_senior_12_ong-quang-khoa.txt",
+      "role": "qa",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4531
+    },
+    {
+      "file": "syn_qa_lead_01_doan-minh-phuc.txt",
+      "role": "qa",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4387
+    },
+    {
+      "file": "syn_qa_lead_02_laura-harris.txt",
+      "role": "qa",
+      "level": "lead",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3892
+    },
+    {
+      "file": "syn_qa_lead_03_ninh-van-son.txt",
+      "role": "qa",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 5741
+    },
+    {
+      "file": "syn_qa_lead_04_ta-inh-son.txt",
+      "role": "qa",
+      "level": "lead",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3842
+    },
+    {
+      "file": "syn_qa_lead_05_o-minh-nam.txt",
+      "role": "qa",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4926
+    },
+    {
+      "file": "syn_qa_lead_06_cao-gia-viet.txt",
+      "role": "qa",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4325
+    },
+    {
+      "file": "syn_security_intern_01_luu-van-trung.txt",
+      "role": "security",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3146
+    },
+    {
+      "file": "syn_security_intern_02_ta-ngoc-cuong.txt",
+      "role": "security",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3348
+    },
+    {
+      "file": "syn_security_intern_03_zane-young.txt",
+      "role": "security",
+      "level": "intern",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 2314
+    },
+    {
+      "file": "syn_security_intern_04_ivy-edwards.txt",
+      "role": "security",
+      "level": "intern",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 2083
+    },
+    {
+      "file": "syn_security_intern_05_laura-reed.txt",
+      "role": "security",
+      "level": "intern",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 1751
+    },
+    {
+      "file": "syn_security_intern_06_laura-kim.txt",
+      "role": "security",
+      "level": "intern",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 2704
+    },
+    {
+      "file": "syn_security_intern_07_ninh-huu-nghia.txt",
+      "role": "security",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2923
+    },
+    {
+      "file": "syn_security_intern_08_lao-thi-tam.txt",
+      "role": "security",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2417
+    },
+    {
+      "file": "syn_security_intern_09_mac-khanh-dung.txt",
+      "role": "security",
+      "level": "intern",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2296
+    },
+    {
+      "file": "syn_security_junior_01_giang-cong-an.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3015
+    },
+    {
+      "file": "syn_security_junior_02_quach-uc-huy.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3063
+    },
+    {
+      "file": "syn_security_junior_03_o-thu-binh.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3241
+    },
+    {
+      "file": "syn_security_junior_04_phan-thu-son.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3237
+    },
+    {
+      "file": "syn_security_junior_05_mac-ngoc-khoi.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2623
+    },
+    {
+      "file": "syn_security_junior_06_ong-ngoc-nam.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2949
+    },
+    {
+      "file": "syn_security_junior_07_tu-tuan-binh.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 2134
+    },
+    {
+      "file": "syn_security_junior_08_phung-van-phuc.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 1803
+    },
+    {
+      "file": "syn_security_junior_09_ta-ngoc-son.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 3373
+    },
+    {
+      "file": "syn_security_junior_10_tu-anh-van.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 3133
+    },
+    {
+      "file": "syn_security_junior_11_chu-khac-cuong.txt",
+      "role": "security",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 2875
+    },
+    {
+      "file": "syn_security_middle_01_duong-ngoc-thang.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4054
+    },
+    {
+      "file": "syn_security_middle_02_kieu-tuan-huy.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4264
+    },
+    {
+      "file": "syn_security_middle_03_ha-van-duy.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3977
+    },
+    {
+      "file": "syn_security_middle_04_vo-hoai-viet.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 4152
+    },
+    {
+      "file": "syn_security_middle_05_pham-van-quy.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4112
+    },
+    {
+      "file": "syn_security_middle_06_to-quang-hieu.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4113
+    },
+    {
+      "file": "syn_security_middle_07_bach-khanh-cuong.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4379
+    },
+    {
+      "file": "syn_security_middle_08_giang-hoai-canh.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3257
+    },
+    {
+      "file": "syn_security_middle_09_to-thi-tuan.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4003
+    },
+    {
+      "file": "syn_security_middle_10_ninh-huu-loc.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4040
+    },
+    {
+      "file": "syn_security_middle_11_daniel-kim.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3223
+    },
+    {
+      "file": "syn_security_middle_12_chu-anh-duy.txt",
+      "role": "security",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4088
+    },
+    {
+      "file": "syn_security_senior_01_ninh-phuoc-bao.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4885
+    },
+    {
+      "file": "syn_security_senior_02_ho-gia-phuc.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4205
+    },
+    {
+      "file": "syn_security_senior_03_ong-inh-viet.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3966
+    },
+    {
+      "file": "syn_security_senior_04_thai-uc-toan.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4811
+    },
+    {
+      "file": "syn_security_senior_05_thai-van-dung.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4135
+    },
+    {
+      "file": "syn_security_senior_06_vu-hoai-viet.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3726
+    },
+    {
+      "file": "syn_security_senior_07_grace-xu.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3224
+    },
+    {
+      "file": "syn_security_senior_08_chu-xuan-manh.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3251
+    },
+    {
+      "file": "syn_security_senior_09_quach-anh-phuc.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2893
+    },
+    {
+      "file": "syn_security_senior_10_inh-thu-long.txt",
+      "role": "security",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5282
+    },
+    {
+      "file": "syn_security_lead_01_o-ngoc-tam.txt",
+      "role": "security",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4532
+    },
+    {
+      "file": "syn_security_lead_02_doan-uc-quy.txt",
+      "role": "security",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4309
+    },
+    {
+      "file": "syn_security_lead_03_ninh-minh-binh.txt",
+      "role": "security",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4359
+    },
+    {
+      "file": "syn_security_lead_04_chu-cong-huy.txt",
+      "role": "security",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 5095
+    },
+    {
+      "file": "syn_security_lead_05_pham-quang-hung.txt",
+      "role": "security",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4255
+    },
+    {
+      "file": "syn_security_lead_06_duong-anh-trung.txt",
+      "role": "security",
+      "level": "lead",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3968
+    },
+    {
+      "file": "syn_fullstack_junior_01_khuong-xuan-yen.txt",
+      "role": "fullstack",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3034
+    },
+    {
+      "file": "syn_fullstack_junior_02_luu-thanh-huy.txt",
+      "role": "fullstack",
+      "level": "junior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 2546
+    },
+    {
+      "file": "syn_fullstack_junior_03_o-quang-ha.txt",
+      "role": "fullstack",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 3052
+    },
+    {
+      "file": "syn_fullstack_junior_04_nguyen-thanh-bao.txt",
+      "role": "fullstack",
+      "level": "junior",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2040
+    },
+    {
+      "file": "syn_fullstack_junior_05_ta-tuan-phong.txt",
+      "role": "fullstack",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 2628
+    },
+    {
+      "file": "syn_fullstack_junior_06_bach-hoai-trung.txt",
+      "role": "fullstack",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 2836
+    },
+    {
+      "file": "syn_fullstack_junior_07_ang-hoai-manh.txt",
+      "role": "fullstack",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 3451
+    },
+    {
+      "file": "syn_fullstack_junior_08_bach-hoai-phuc.txt",
+      "role": "fullstack",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 2442
+    },
+    {
+      "file": "syn_fullstack_junior_09_giang-van-long.txt",
+      "role": "fullstack",
+      "level": "junior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 2940
+    },
+    {
+      "file": "syn_fullstack_middle_01_ly-khac-dung.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 3453
+    },
+    {
+      "file": "syn_fullstack_middle_02_truong-thanh-nam.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "en",
+      "layout": "outline",
+      "bytes": 3300
+    },
+    {
+      "file": "syn_fullstack_middle_03_ha-anh-yen.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4626
+    },
+    {
+      "file": "syn_fullstack_middle_04_ben-foster.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 3446
+    },
+    {
+      "file": "syn_fullstack_middle_05_anna-harris.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 3260
+    },
+    {
+      "file": "syn_fullstack_middle_06_giang-quang-nghia.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3095
+    },
+    {
+      "file": "syn_fullstack_middle_07_nina-young.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 2784
+    },
+    {
+      "file": "syn_fullstack_middle_08_bach-quang-tung.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 2988
+    },
+    {
+      "file": "syn_fullstack_middle_09_henry-owens.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3235
+    },
+    {
+      "file": "syn_fullstack_middle_10_vu-khanh-tung.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4503
+    },
+    {
+      "file": "syn_fullstack_middle_11_bui-ngoc-van.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4713
+    },
+    {
+      "file": "syn_fullstack_middle_12_cao-thanh-hieu.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4595
+    },
+    {
+      "file": "syn_fullstack_middle_13_le-ngoc-hung.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4074
+    },
+    {
+      "file": "syn_fullstack_middle_14_bach-ngoc-viet.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4648
+    },
+    {
+      "file": "syn_fullstack_middle_15_ly-gia-long.txt",
+      "role": "fullstack",
+      "level": "middle",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3264
+    },
+    {
+      "file": "syn_fullstack_senior_01_mac-ngoc-nam.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4011
+    },
+    {
+      "file": "syn_fullstack_senior_02_ivy-xu.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "en",
+      "layout": "bullets_star",
+      "bytes": 4114
+    },
+    {
+      "file": "syn_fullstack_senior_03_chloe-owens.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 2764
+    },
+    {
+      "file": "syn_fullstack_senior_04_nguyen-anh-quy.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4641
+    },
+    {
+      "file": "syn_fullstack_senior_05_luu-gia-tung.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 5249
+    },
+    {
+      "file": "syn_fullstack_senior_06_truong-gia-quang.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4735
+    },
+    {
+      "file": "syn_fullstack_senior_07_thai-gia-binh.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "uppercase",
+      "bytes": 4540
+    },
+    {
+      "file": "syn_fullstack_senior_08_o-minh-quan.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 4955
+    },
+    {
+      "file": "syn_fullstack_senior_09_kieu-van-loc.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "compact",
+      "bytes": 4762
+    },
+    {
+      "file": "syn_fullstack_senior_10_kieu-hoai-phong.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "plain",
+      "bytes": 4377
+    },
+    {
+      "file": "syn_fullstack_senior_11_phung-anh-thang.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4226
+    },
+    {
+      "file": "syn_fullstack_senior_12_pham-inh-viet.txt",
+      "role": "fullstack",
+      "level": "senior",
+      "lang": "vi",
+      "layout": "markdown",
+      "bytes": 4020
+    },
+    {
+      "file": "syn_fullstack_lead_01_kieu-van-thang.txt",
+      "role": "fullstack",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "outline",
+      "bytes": 4802
+    },
+    {
+      "file": "syn_fullstack_lead_02_bach-uc-ha.txt",
+      "role": "fullstack",
+      "level": "lead",
+      "lang": "en",
+      "layout": "markdown",
+      "bytes": 3982
+    },
+    {
+      "file": "syn_fullstack_lead_03_bach-thu-viet.txt",
+      "role": "fullstack",
+      "level": "lead",
+      "lang": "en",
+      "layout": "uppercase",
+      "bytes": 4040
+    },
+    {
+      "file": "syn_fullstack_lead_04_ngo-xuan-quy.txt",
+      "role": "fullstack",
+      "level": "lead",
+      "lang": "vi",
+      "layout": "bullets_star",
+      "bytes": 5268
+    },
+    {
+      "file": "syn_fullstack_lead_05_ivy-lopez.txt",
+      "role": "fullstack",
+      "level": "lead",
+      "lang": "en",
+      "layout": "compact",
+      "bytes": 3489
+    },
+    {
+      "file": "syn_fullstack_lead_06_quinn-lopez.txt",
+      "role": "fullstack",
+      "level": "lead",
+      "lang": "en",
+      "layout": "plain",
+      "bytes": 3601
+    }
+  ],
+  "seed": 20240517
+}

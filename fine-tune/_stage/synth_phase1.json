@@ -1,0 +1,2244 @@
+{
+ "total_synthetic": 435,
+ "issues": [
+  {
+   "code": "F-TIMELINE",
+   "file": "116.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2019 trước khi nhập học 2022",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "118.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2020 trước khi nhập học 2022",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "123.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2020 trước khi nhập học 2022",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "126.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2019 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "128.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2018 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "128.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2017 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "197.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2017 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "C-SAME-TECH",
+   "file": "200.txt",
+   "json_path": "output.personal_projects",
+   "evidence": "2 projects cùng tech: ['Ansible', 'SonarQube']",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu input đúng vậy (đa số do template)"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "254.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2015 trước khi nhập học 2018",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "256.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2018 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "297.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2020 trước khi nhập học 2022",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "304.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2019 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "309.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2018 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "362.txt",
+   "json_path": "output.experience[1]",
+   "evidence": "năm 2020 trước khi nhập học 2022",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "366.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2018 trước khi nhập học 2022",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "367.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2018 trước khi nhập học 2020",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "367.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2017 trước khi nhập học 2020",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "368.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2017 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "370.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2016 trước khi nhập học 2019",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "C-SAME-TECH",
+   "file": "391.txt",
+   "json_path": "output.personal_projects",
+   "evidence": "2 projects cùng tech: ['Pytest', 'Test Case Design']",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu input đúng vậy (đa số do template)"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "414.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2019 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "427.txt",
+   "json_path": "output.experience[3]",
+   "evidence": "năm 2019 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "430.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2019 trước khi nhập học 2022",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "477.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2019 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "504.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2019 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "512.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2019 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "515.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2019 trước khi nhập học 2021",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "520.txt",
+   "json_path": "output.experience[1]",
+   "evidence": "năm 2020 trước khi nhập học 2022",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  },
+  {
+   "code": "F-TIMELINE",
+   "file": "520.txt",
+   "json_path": "output.experience[2]",
+   "evidence": "năm 2019 trước khi nhập học 2022",
+   "severity": "low",
+   "suggested_action": "chấp nhận nếu là đồ án/sở thích (ghi chú), ngược lại sửa"
+  }
+ ],
+ "issues_by_code": {
+  "F-TIMELINE": 27,
+  "C-SAME-TECH": 2
+ },
+ "stats": {
+  "lang": {
+   "vi": 292,
+   "en": 143
+  },
+  "layout": {
+   "bullets_star": 72,
+   "compact": 73,
+   "plain": 75,
+   "outline": 74,
+   "markdown": 70,
+   "uppercase": 71
+  },
+  "role": {
+   "backend": 48,
+   "frontend": 66,
+   "devops": 59,
+   "data": 53,
+   "ba": 59,
+   "qa": 60,
+   "security": 48,
+   "fullstack": 42
+  },
+  "level": {
+   "junior": 97,
+   "middle": 123,
+   "senior": 100,
+   "lead": 54,
+   "intern": 61
+  },
+  "n_projects": {
+   "2": 81,
+   "3": 205,
+   "4": 149
+  },
+  "n_exp": {
+   "1": 152,
+   "2": 154,
+   "3": 110,
+   "4": 19
+  },
+  "input_chars": [
+   1959,
+   1736,
+   2157,
+   2558,
+   2700,
+   2472,
+   3282,
+   3594,
+   3437,
+   3587,
+   2651,
+   3097,
+   3398,
+   4062,
+   3460,
+   3807,
+   4063,
+   3218,
+   3057,
+   3062,
+   3528,
+   3346,
+   3326,
+   3427,
+   3885,
+   3854,
+   2910,
+   3338,
+   3657,
+   3210,
+   4248,
+   2982,
+   3899,
+   3651,
+   3592,
+   3546,
+   3955,
+   3420,
+   3322,
+   3332,
+   3990,
+   3636,
+   4523,
+   4859,
+   3881,
+   3917,
+   3231,
+   4255,
+   1937,
+   1809,
+   2501,
+   2398,
+   2060,
+   2444,
+   2164,
+   2366,
+   2831,
+   2208,
+   2418,
+   2408,
+   1786,
+   2060,
+   2736,
+   2666,
+   3023,
+   1948,
+   2643,
+   2084,
+   2738,
+   2691,
+   2532,
+   1942,
+   3330,
+   2876,
+   4458,
+   3158,
+   3033,
+   4089,
+   3505,
+   2623,
+   3453,
+   3097,
+   3857,
+   3365,
+   3569,
+   3044,
+   3661,
+   3660,
+   3286,
+   4374,
+   2806,
+   3256,
+   3881,
+   3782,
+   3531,
+   3642,
+   3920,
+   2830,
+   3776,
+   3739,
+   3353,
+   3606,
+   3239,
+   3396,
+   4400,
+   3838,
+   4278,
+   3631,
+   3932,
+   4183,
+   3789,
+   4081,
+   4182,
+   4030,
+   1970,
+   2175,
+   1909,
+   1720,
+   2235,
+   2010,
+   2032,
+   1871,
+   1809,
+   1738,
+   2515,
+   2530,
+   2838,
+   2461,
+   1714,
+   2444,
+   2723,
+   2302,
+   1927,
+   2472,
+   2021,
+   1863,
+   3010,
+   2919,
+   2590,
+   2585,
+   3939,
+   3477,
+   3684,
+   3247,
+   3203,
+   3428,
+   3739,
+   3910,
+   3499,
+   2917,
+   3524,
+   3499,
+   3617,
+   3231,
+   3795,
+   3235,
+   3800,
+   3800,
+   2904,
+   3636,
+   3699,
+   4246,
+   4276,
+   3437,
+   3256,
+   3071,
+   3805,
+   3253,
+   4874,
+   3610,
+   4283,
+   4216,
+   3475,
+   1715,
+   2524,
+   2066,
+   1843,
+   2283,
+   1632,
+   1923,
+   2743,
+   2074,
+   2701,
+   2611,
+   1823,
+   1845,
+   2283,
+   2222,
+   2340,
+   2207,
+   2071,
+   1842,
+   2178,
+   3441,
+   2682,
+   3010,
+   3285,
+   3560,
+   2715,
+   3294,
+   3322,
+   3429,
+   3089,
+   2750,
+   3216,
+   3260,
+   3526,
+   2552,
+   3016,
+   3581,
+   3473,
+   3729,
+   4377,
+   3328,
+   3190,
+   3328,
+   3449,
+   3419,
+   4171,
+   3793,
+   4202,
+   3709,
+   4080,
+   4382,
+   4405,
+   4072,
+   2473,
+   2062,
+   1930,
+   1976,
+   2408,
+   2812,
+   1939,
+   2184,
+   2017,
+   1952,
+   2530,
+   2609,
+   2650,
+   2625,
+   2123,
+   2059,
+   2435,
+   2427,
+   2545,
+   2704,
+   1999,
+   1981,
+   2646,
+   2050,
+   2452,
+   2210,
+   2967,
+   3180,
+   3380,
+   3423,
+   2710,
+   3632,
+   3449,
+   3179,
+   4203,
+   3270,
+   2942,
+   3204,
+   3214,
+   3082,
+   3729,
+   3476,
+   3749,
+   3186,
+   3997,
+   2992,
+   3248,
+   3746,
+   3807,
+   3441,
+   3277,
+   3649,
+   4391,
+   3632,
+   4467,
+   4833,
+   3732,
+   4174,
+   4230,
+   2522,
+   2526,
+   2029,
+   1757,
+   1903,
+   2115,
+   2318,
+   2349,
+   1856,
+   2152,
+   1666,
+   2512,
+   2875,
+   2603,
+   1727,
+   2417,
+   2325,
+   2837,
+   2293,
+   2663,
+   1828,
+   2205,
+   2057,
+   2310,
+   2531,
+   2621,
+   2355,
+   3604,
+   3437,
+   3324,
+   3198,
+   3258,
+   3322,
+   3238,
+   3345,
+   2649,
+   3782,
+   3112,
+   3328,
+   2256,
+   2520,
+   3967,
+   3825,
+   3946,
+   4279,
+   3352,
+   3703,
+   3747,
+   3105,
+   4300,
+   3539,
+   3847,
+   3794,
+   3817,
+   3539,
+   3892,
+   4683,
+   3764,
+   4002,
+   3510,
+   2655,
+   2720,
+   2280,
+   2060,
+   1731,
+   2702,
+   2471,
+   1983,
+   1919,
+   2563,
+   2512,
+   2778,
+   2744,
+   2179,
+   2495,
+   2127,
+   1797,
+   2865,
+   2638,
+   2360,
+   3313,
+   3490,
+   3287,
+   4140,
+   3415,
+   3379,
+   3604,
+   2704,
+   3272,
+   3400,
+   3213,
+   3351,
+   4070,
+   3479,
+   3275,
+   4055,
+   3450,
+   3643,
+   3194,
+   3240,
+   2886,
+   4431,
+   3706,
+   3562,
+   3604,
+   4167,
+   3489,
+   3966,
+   2550,
+   2529,
+   2610,
+   2026,
+   2243,
+   2431,
+   2844,
+   2051,
+   2449,
+   2841,
+   3286,
+   3797,
+   3371,
+   3239,
+   3090,
+   2778,
+   2549,
+   3227,
+   3684,
+   3896,
+   3804,
+   3339,
+   3917,
+   3247,
+   3248,
+   4078,
+   2749,
+   3823,
+   4415,
+   3966,
+   3729,
+   4104,
+   3913,
+   3599,
+   3626,
+   3350,
+   3987,
+   3970,
+   3961,
+   4305,
+   3489,
+   3601
+  ],
+  "missing_fields": {
+   "certificates": 20
+  }
+ },
+ "input_chars": {
+  "min": 1632,
+  "median": 3239,
+  "max": 4874
+ },
+ "exact_duplicate_inputs": 0,
+ "near_duplicate_pairs": [],
+ "duplicate_personal_info": {},
+ "top_repeated_sentences": [
+  {
+   "sample": "chuyểnđổikiếntrúcmonolithsangmicroservicestriểnkhaidầnkhônggiánđoạndịchvụ",
+   "count": 170
+  },
+  {
+   "sample": "ápdụngkiếntrúchexagonalđểtáchlớpnghiệpvụkhỏihạtầng",
+   "count": 131
+  },
+  {
+   "sample": "điềuhướngquytrìnhsystemdesignchuẩnhóađánhgiágiảiphápkỹthuậttrướckhitriểnkhai",
+   "count": 120
+  },
+  {
+   "sample": "migratedamonolithtomicroservicesincrementallywithzerodowntime",
+   "count": 111
+  },
+  {
+   "sample": "đượcđánhgiáhoànthànhxuấtsắctrongkỳđánhgiánộibộcủacôngty",
+   "count": 107
+  },
+  {
+   "sample": "appliedhexagonalarchitecturetodecoupledomainlogicfrominfrastructure",
+   "count": 106
+  },
+  {
+   "sample": "thúcđẩyvănhóakỹthuậttổchứcworkshopchiasẻkiếnthứchàngthángchotoànbộnhóm",
+   "count": 87
+  },
+  {
+   "sample": "đánhgiárủirokỹthuậtvàđềxuấtphươngángiảmthiểutrướckhicamkếtvớikháchhàng",
+   "count": 86
+  },
+  {
+   "sample": "thiếtkếkiếntrúctổngthểchọncôngnghệvàchuẩnhóanềntảngdùngchung",
+   "count": 82
+  },
+  {
+   "sample": "làmviệctrựctiếpvớistakeholdernghiệpvụđểlàmrõyêucầuvàcânbằngphạmvivớithờihạn",
+   "count": 81
+  },
+  {
+   "sample": "facilitatedsystemdesignreviewsandstandardisedtechnicalevaluationbeforerollout",
+   "count": 78
+  },
+  {
+   "sample": "hỗtrợkiểmthửthủcôngvàghinhậnlỗipháthiệnđược",
+   "count": 45
+  },
+  {
+   "sample": "ranmonthlyengineeringworkshopsandgrewtheteamstechnicalcapability",
+   "count": 44
+  },
+  {
+   "sample": "designedthetargetarchitecturetechnologyselectionandsharedplatformstandards",
+   "count": 44
+  },
+  {
+   "sample": "đưatỷlệlỗipháthiệntrướckhilênproductionlên90%",
+   "count": 43
+  },
+  {
+   "sample": "triểnkhaitínhnăngmớitheoyêucầunghiệpvụđạttiêuchuẩnnghiệmthu",
+   "count": 42
+  },
+  {
+   "sample": "partnereddirectlywithbusinessstakeholderstoclarifyrequirementsandscopetradeoffs",
+   "count": 42
+  },
+  {
+   "sample": "thiếtkếkiếntrúceventdrivenvớikafkaxửlý100000sựkiệnmỗigiây",
+   "count": 39
+  },
+  {
+   "sample": "đưatỷlệlỗipháthiệntrướckhilênproductionlên75%",
+   "count": 38
+  },
+  {
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới850giây",
+   "count": 35
+  },
+  {
+   "sample": "tíchhợpthanhtoántrựctuyếnvới3đốitác",
+   "count": 33
+  },
+  {
+   "sample": "raisedpreproductiondefectdetectionto75%",
+   "count": 31
+  },
+  {
+   "sample": "tăngkhảnăngchịulỗithờigiankhôiphụctrungbình1200phút",
+   "count": 31
+  },
+  {
+   "sample": "xâydựnglộtrìnhkỹthuậtdàihạncho3nămđịnhhướngcôngnghệvàloạibỏnợkỹthuật",
+   "count": 30
+  },
+  {
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới200giây",
+   "count": 29
+  },
+  {
+   "sample": "tăngkhảnăngchịulỗithờigiankhôiphụctrungbình600phút",
+   "count": 29
+  },
+  {
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới1200giây",
+   "count": 28
+  },
+  {
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới450giây",
+   "count": 28
+  },
+  {
+   "sample": "phốihợpvớiseniorđểreviewcodevàsửalỗiphátsinh",
+   "count": 28
+  },
+  {
+   "sample": "thamgiathiếtkếschemacho12bảngxửlýkhóachínhvàchỉmụcphùhợptải",
+   "count": 27
+  },
+  {
+   "sample": "thiếtkếchiếnlượcmultiregionvàdisasterrecoverythờigiankhôiphụcdưới320phút",
+   "count": 27
+  },
+  {
+   "sample": "xâydựnglộtrìnhkỹthuậtdàihạncho2nămđịnhhướngcôngnghệvàloạibỏnợkỹthuật",
+   "count": 27
+  },
+  {
+   "sample": "đưatỷlệlỗipháthiệntrướckhilênproductionlên80%",
+   "count": 27
+  },
+  {
+   "sample": "thiếtkếkiếntrúceventdrivenvớikafkaxửlý5000sựkiệnmỗigiây",
+   "count": 26
+  },
+  {
+   "sample": "kiếntrúcsưchínhcho8serviceđưaraquyếtđịnhcôngnghệvàtradeoffvềchiphíđộtrễvàđộsẵnsàng",
+   "count": 26
+  },
+  {
+   "sample": "tăngkhảnăngchịulỗithờigiankhôiphụctrungbình320phút",
+   "count": 26
+  },
+  {
+   "sample": "tíchhợpthanhtoántrựctuyếnvới5đốitác",
+   "count": 25
+  },
+  {
+   "sample": "thiếtkếhệthốngxửlýđồngbộdữliệutheothờigianthựcđộtrễdưới320giây",
+   "count": 25
+  },
+  {
+   "sample": "designedaneventdrivenarchitectureonkafkahandling20000eventspersecond",
+   "count": 25
+  },
+  {
+   "sample": "thiếtkếkiếntrúceventdrivenvớikafkaxửlý10000sựkiệnmỗigiây",
+   "count": 25
+  }
+ ],
+ "top_repeated_metrics": [
+  {
+   "sample": "70%",
+   "count": 197
+  },
+  {
+   "sample": "30%",
+   "count": 153
+  },
+  {
+   "sample": "15service",
+   "count": 144
+  },
+  {
+   "sample": "75%",
+   "count": 141
+  },
+  {
+   "sample": "60%",
+   "count": 139
+  },
+  {
+   "sample": "15%",
+   "count": 135
+  },
+  {
+   "sample": "90%",
+   "count": 134
+  },
+  {
+   "sample": "6service",
+   "count": 127
+  },
+  {
+   "sample": "8service",
+   "count": 125
+  },
+  {
+   "sample": "40%",
+   "count": 123
+  },
+  {
+   "sample": "35%",
+   "count": 122
+  },
+  {
+   "sample": "18service",
+   "count": 118
+  },
+  {
+   "sample": "12service",
+   "count": 118
+  },
+  {
+   "sample": "5service",
+   "count": 116
+  },
+  {
+   "sample": "20%",
+   "count": 115
+  },
+  {
+   "sample": "45%",
+   "count": 113
+  },
+  {
+   "sample": "88%",
+   "count": 112
+  },
+  {
+   "sample": "25%",
+   "count": 112
+  },
+  {
+   "sample": "10service",
+   "count": 106
+  },
+  {
+   "sample": "85%",
+   "count": 102
+  }
+ ],
+ "repeated_sentence_groups": [
+  {
+   "sample": "điềuhướngquytrìnhsystemdesignchuẩnhóađánhgiágiảiphápkỹthuậttrướckhitriểnkhai",
+   "records": [
+    "114.txt",
+    "115.txt",
+    "116.txt",
+    "118.txt",
+    "120.txt",
+    "121.txt",
+    "176.txt",
+    "179.txt",
+    "181.txt",
+    "184.txt",
+    "186.txt",
+    "187.txt",
+    "188.txt",
+    "189.txt",
+    "190.txt",
+    "241.txt",
+    "242.txt",
+    "246.txt",
+    "247.txt",
+    "248.txt",
+    "250.txt",
+    "251.txt",
+    "294.txt",
+    "295.txt",
+    "297.txt",
+    "298.txt",
+    "299.txt",
+    "301.txt",
+    "302.txt",
+    "305.txt",
+    "353.txt",
+    "354.txt",
+    "356.txt",
+    "357.txt",
+    "359.txt",
+    "360.txt",
+    "362.txt",
+    "364.txt",
+    "413.txt",
+    "415.txt",
+    "417.txt",
+    "418.txt",
+    "420.txt",
+    "421.txt",
+    "422.txt",
+    "424.txt",
+    "463.txt",
+    "464.txt",
+    "465.txt",
+    "466.txt",
+    "467.txt",
+    "472.txt",
+    "503.txt",
+    "506.txt",
+    "507.txt",
+    "508.txt",
+    "509.txt",
+    "510.txt",
+    "511.txt",
+    "512.txt",
+    "513.txt",
+    "514.txt"
+   ],
+   "count": 120
+  },
+  {
+   "sample": "thúcđẩyvănhóakỹthuậttổchứcworkshopchiasẻkiếnthứchàngthángchotoànbộnhóm",
+   "records": [
+    "125.txt",
+    "126.txt",
+    "127.txt",
+    "128.txt",
+    "130.txt",
+    "131.txt",
+    "191.txt",
+    "192.txt",
+    "194.txt",
+    "195.txt",
+    "197.txt",
+    "198.txt",
+    "199.txt",
+    "253.txt",
+    "254.txt",
+    "255.txt",
+    "257.txt",
+    "306.txt",
+    "307.txt",
+    "308.txt",
+    "309.txt",
+    "310.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "370.txt",
+    "425.txt",
+    "427.txt",
+    "429.txt",
+    "430.txt",
+    "473.txt",
+    "474.txt",
+    "475.txt",
+    "476.txt",
+    "477.txt",
+    "515.txt",
+    "518.txt"
+   ],
+   "count": 87
+  },
+  {
+   "sample": "đánhgiárủirokỹthuậtvàđềxuấtphươngángiảmthiểutrướckhicamkếtvớikháchhàng",
+   "records": [
+    "125.txt",
+    "126.txt",
+    "127.txt",
+    "128.txt",
+    "130.txt",
+    "131.txt",
+    "191.txt",
+    "192.txt",
+    "194.txt",
+    "195.txt",
+    "197.txt",
+    "198.txt",
+    "199.txt",
+    "253.txt",
+    "254.txt",
+    "255.txt",
+    "257.txt",
+    "306.txt",
+    "308.txt",
+    "309.txt",
+    "310.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "370.txt",
+    "425.txt",
+    "427.txt",
+    "429.txt",
+    "430.txt",
+    "473.txt",
+    "474.txt",
+    "476.txt",
+    "477.txt",
+    "515.txt",
+    "518.txt"
+   ],
+   "count": 86
+  },
+  {
+   "sample": "làmviệctrựctiếpvớistakeholdernghiệpvụđểlàmrõyêucầuvàcânbằngphạmvivớithờihạn",
+   "records": [
+    "125.txt",
+    "126.txt",
+    "127.txt",
+    "128.txt",
+    "130.txt",
+    "131.txt",
+    "191.txt",
+    "192.txt",
+    "194.txt",
+    "195.txt",
+    "197.txt",
+    "198.txt",
+    "199.txt",
+    "253.txt",
+    "254.txt",
+    "255.txt",
+    "257.txt",
+    "306.txt",
+    "307.txt",
+    "308.txt",
+    "309.txt",
+    "310.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "370.txt",
+    "425.txt",
+    "427.txt",
+    "429.txt",
+    "430.txt",
+    "473.txt",
+    "474.txt",
+    "475.txt",
+    "476.txt",
+    "477.txt",
+    "515.txt",
+    "518.txt"
+   ],
+   "count": 81
+  },
+  {
+   "sample": "facilitatedsystemdesignreviewsandstandardisedtechnicalevaluationbeforerollout",
+   "records": [
+    "110.txt",
+    "111.txt",
+    "112.txt",
+    "113.txt",
+    "117.txt",
+    "119.txt",
+    "122.txt",
+    "123.txt",
+    "124.txt",
+    "177.txt",
+    "178.txt",
+    "180.txt",
+    "182.txt",
+    "183.txt",
+    "185.txt",
+    "243.txt",
+    "244.txt",
+    "245.txt",
+    "249.txt",
+    "296.txt",
+    "300.txt",
+    "303.txt",
+    "304.txt",
+    "355.txt",
+    "358.txt",
+    "361.txt",
+    "363.txt",
+    "414.txt",
+    "416.txt",
+    "419.txt",
+    "423.txt",
+    "468.txt",
+    "469.txt",
+    "470.txt",
+    "471.txt",
+    "504.txt",
+    "505.txt"
+   ],
+   "count": 78
+  },
+  {
+   "sample": "ranmonthlyengineeringworkshopsandgrewtheteamstechnicalcapability",
+   "records": [
+    "129.txt",
+    "132.txt",
+    "133.txt",
+    "193.txt",
+    "196.txt",
+    "256.txt",
+    "258.txt",
+    "311.txt",
+    "368.txt",
+    "369.txt",
+    "426.txt",
+    "428.txt",
+    "478.txt",
+    "516.txt",
+    "517.txt",
+    "519.txt",
+    "520.txt"
+   ],
+   "count": 44
+  },
+  {
+   "sample": "partnereddirectlywithbusinessstakeholderstoclarifyrequirementsandscopetradeoffs",
+   "records": [
+    "129.txt",
+    "132.txt",
+    "133.txt",
+    "193.txt",
+    "196.txt",
+    "256.txt",
+    "258.txt",
+    "311.txt",
+    "368.txt",
+    "369.txt",
+    "426.txt",
+    "428.txt",
+    "478.txt",
+    "516.txt",
+    "517.txt",
+    "519.txt",
+    "520.txt"
+   ],
+   "count": 42
+  },
+  {
+   "sample": "xâydựnglộtrìnhkỹthuậtdàihạncho3nămđịnhhướngcôngnghệvàloạibỏnợkỹthuật",
+   "records": [
+    "125.txt",
+    "126.txt",
+    "128.txt",
+    "192.txt",
+    "194.txt",
+    "198.txt",
+    "199.txt",
+    "253.txt",
+    "254.txt",
+    "306.txt",
+    "307.txt",
+    "308.txt",
+    "365.txt",
+    "366.txt",
+    "367.txt",
+    "427.txt",
+    "430.txt",
+    "474.txt",
+    "475.txt",
+    "476.txt",
+    "515.txt",
+    "518.txt"
+   ],
+   "count": 30
+  },
+  {
+   "sample": "thiếtkếchiếnlượcmultiregionvàdisasterrecoverythờigiankhôiphụcdưới320phút",
+   "records": [
+    "118.txt",
+    "120.txt",
+    "179.txt",
+    "187.txt",
+    "189.txt",
+    "190.txt",
+    "242.txt",
+    "247.txt",
+    "294.txt",
+    "298.txt",
+    "299.txt",
+    "301.txt",
+    "305.txt",
+    "353.txt",
+    "356.txt",
+    "359.txt",
+    "364.txt",
+    "420.txt",
+    "422.txt",
+    "424.txt",
+    "506.txt",
+    "510.txt",
+    "511.txt"
+   ],
+   "count": 27
+  },
+  {
+   "sample": "xâydựnglộtrìnhkỹthuậtdàihạncho2nămđịnhhướngcôngnghệvàloạibỏnợkỹthuật",
+   "records": [
+    "126.txt",
+    "128.txt",
+    "130.txt",
+    "131.txt",
+    "194.txt",
+    "195.txt",
+    "254.txt",
+    "255.txt",
+    "307.txt",
+    "308.txt",
+    "309.txt",
+    "310.txt",
+    "366.txt",
+    "370.txt",
+    "425.txt",
+    "430.txt",
+    "473.txt",
+    "474.txt",
+    "477.txt"
+   ],
+   "count": 27
+  },
+  {
+   "sample": "kiếntrúcsưchínhcho8serviceđưaraquyếtđịnhcôngnghệvàtradeoffvềchiphíđộtrễvàđộsẵnsàng",
+   "records": [
+    "120.txt",
+    "121.txt",
+    "187.txt",
+    "190.txt",
+    "248.txt",
+    "250.txt",
+    "251.txt",
+    "295.txt",
+    "297.txt",
+    "299.txt",
+    "301.txt",
+    "354.txt",
+    "356.txt",
+    "360.txt",
+    "415.txt",
+    "417.txt",
+    "463.txt",
+    "464.txt",
+    "465.txt",
+    "472.txt",
+    "507.txt",
+    "509.txt",
+    "511.txt",
+    "512.txt"
+   ],
+   "count": 26
+  },
+  {
+   "sample": "xâydựnglộtrìnhkỹthuậtdàihạncho5nămđịnhhướngcôngnghệvàloạibỏnợkỹthuật",
+   "records": [
+    "126.txt",
+    "127.txt",
+    "128.txt",
+    "131.txt",
+    "191.txt",
+    "195.txt",
+    "197.txt",
+    "198.txt",
+    "254.txt",
+    "255.txt",
+    "306.txt",
+    "309.txt",
+    "365.txt",
+    "366.txt",
+    "427.txt",
+    "429.txt",
+    "518.txt"
+   ],
+   "count": 21
+  },
+  {
+   "sample": "thiếtkếchiếnlượcmultiregionvàdisasterrecoverythờigiankhôiphụcdưới850phút",
+   "records": [
+    "184.txt",
+    "189.txt",
+    "248.txt",
+    "251.txt",
+    "295.txt",
+    "299.txt",
+    "302.txt",
+    "357.txt",
+    "362.txt",
+    "364.txt",
+    "415.txt",
+    "418.txt",
+    "465.txt",
+    "466.txt",
+    "472.txt",
+    "503.txt",
+    "507.txt",
+    "509.txt",
+    "514.txt"
+   ],
+   "count": 21
+  },
+  {
+   "sample": "thiếtkếchiếnlượcmultiregionvàdisasterrecoverythờigiankhôiphụcdưới1200phút",
+   "records": [
+    "115.txt",
+    "176.txt",
+    "186.txt",
+    "241.txt",
+    "246.txt",
+    "247.txt",
+    "250.txt",
+    "353.txt",
+    "354.txt",
+    "356.txt",
+    "413.txt",
+    "463.txt",
+    "464.txt",
+    "467.txt",
+    "472.txt",
+    "506.txt",
+    "510.txt",
+    "513.txt"
+   ],
+   "count": 20
+  },
+  {
+   "sample": "kiếntrúcsưchínhcho15serviceđưaraquyếtđịnhcôngnghệvàtradeoffvềchiphíđộtrễvàđộsẵnsàng",
+   "records": [
+    "116.txt",
+    "118.txt",
+    "184.txt",
+    "188.txt",
+    "190.txt",
+    "241.txt",
+    "242.txt",
+    "246.txt",
+    "247.txt",
+    "248.txt",
+    "294.txt",
+    "305.txt",
+    "353.txt",
+    "359.txt",
+    "418.txt",
+    "422.txt",
+    "466.txt",
+    "506.txt",
+    "510.txt"
+   ],
+   "count": 20
+  },
+  {
+   "sample": "owneda3yeartechnologyroadmapdrivingadoptiondecisionsandtechnicaldebtreduction",
+   "records": [
+    "129.txt",
+    "132.txt",
+    "193.txt",
+    "196.txt",
+    "311.txt",
+    "368.txt",
+    "369.txt",
+    "426.txt",
+    "478.txt",
+    "517.txt",
+    "519.txt",
+    "520.txt"
+   ],
+   "count": 20
+  },
+  {
+   "sample": "kiếntrúcsưchínhcho18serviceđưaraquyếtđịnhcôngnghệvàtradeoffvềchiphíđộtrễvàđộsẵnsàng",
+   "records": [
+    "176.txt",
+    "179.txt",
+    "184.txt",
+    "186.txt",
+    "248.txt",
+    "295.txt",
+    "298.txt",
+    "299.txt",
+    "359.txt",
+    "360.txt",
+    "415.txt",
+    "421.txt",
+    "463.txt",
+    "467.txt",
+    "472.txt",
+    "503.txt",
+    "506.txt",
+    "508.txt",
+    "514.txt"
+   ],
+   "count": 20
+  },
+  {
+   "sample": "appliedsolidprinciplesanddesignpatternsraisingtestabilityto75%",
+   "records": [
+    "108.txt",
+    "166.txt",
+    "170.txt",
+    "172.txt",
+    "289.txt",
+    "293.txt",
+    "399.txt",
+    "408.txt",
+    "410.txt",
+    "454.txt",
+    "98.txt"
+   ],
+   "count": 18
+  },
+  {
+   "sample": "appliedsolidprinciplesanddesignpatternsraisingtestabilityto85%",
+   "records": [
+    "102.txt",
+    "165.txt",
+    "291.txt",
+    "341.txt",
+    "342.txt",
+    "405.txt",
+    "489.txt",
+    "492.txt",
+    "92.txt"
+   ],
+   "count": 17
+  },
+  {
+   "sample": "appliedsolidprinciplesanddesignpatternsraisingtestabilityto90%",
+   "records": [
+    "340.txt",
+    "343.txt",
+    "345.txt",
+    "349.txt",
+    "404.txt",
+    "493.txt",
+    "494.txt",
+    "496.txt",
+    "97.txt"
+   ],
+   "count": 17
+  },
+  {
+   "sample": "thiếtkếchiếnlượcmultiregionvàdisasterrecoverythờigiankhôiphụcdưới600phút",
+   "records": [
+    "116.txt",
+    "179.txt",
+    "181.txt",
+    "184.txt",
+    "298.txt",
+    "357.txt",
+    "360.txt",
+    "415.txt",
+    "420.txt",
+    "421.txt",
+    "465.txt",
+    "507.txt",
+    "508.txt",
+    "509.txt"
+   ],
+   "count": 17
+  },
+  {
+   "sample": "kiếntrúcsưchínhcho5serviceđưaraquyếtđịnhcôngnghệvàtradeoffvềchiphíđộtrễvàđộsẵnsàng",
+   "records": [
+    "120.txt",
+    "188.txt",
+    "189.txt",
+    "190.txt",
+    "247.txt",
+    "305.txt",
+    "356.txt",
+    "362.txt",
+    "364.txt",
+    "418.txt",
+    "420.txt",
+    "421.txt",
+    "466.txt",
+    "472.txt",
+    "511.txt",
+    "513.txt"
+   ],
+   "count": 17
+  },
+  {
+   "sample": "designedmultiregionstrategyanddisasterrecoverywithrecoverytimeunder850minutes",
+   "records": [
+    "111.txt",
+    "113.txt",
+    "124.txt",
+    "178.txt",
+    "180.txt",
+    "182.txt",
+    "183.txt",
+    "249.txt",
+    "252.txt",
+    "304.txt",
+    "358.txt",
+    "423.txt",
+    "504.txt"
+   ],
+   "count": 16
+  },
+  {
+   "sample": "kiếntrúcsưchínhcho6serviceđưaraquyếtđịnhcôngnghệvàtradeoffvềchiphíđộtrễvàđộsẵnsàng",
+   "records": [
+    "115.txt",
+    "179.txt",
+    "186.txt",
+    "187.txt",
+    "251.txt",
+    "302.txt",
+    "357.txt",
+    "364.txt",
+    "413.txt",
+    "420.txt",
+    "424.txt",
+    "465.txt"
+   ],
+   "count": 15
+  },
+  {
+   "sample": "thiếtkếchiếnlượcmultiregionvàdisasterrecoverythờigiankhôiphụcdưới200phút",
+   "records": [
+    "118.txt",
+    "120.txt",
+    "176.txt",
+    "181.txt",
+    "190.txt",
+    "241.txt",
+    "247.txt",
+    "297.txt",
+    "364.txt",
+    "415.txt",
+    "417.txt",
+    "422.txt",
+    "507.txt",
+    "508.txt",
+    "510.txt"
+   ],
+   "count": 15
+  },
+  {
+   "sample": "dẫndắttáchlớpservicegiảmcouplingvàrútngắnthờigiantriểnkhaitínhnăngmới15%",
+   "records": [
+    "159.txt",
+    "163.txt",
+    "164.txt",
+    "230.txt",
+    "232.txt",
+    "233.txt",
+    "236.txt",
+    "238.txt",
+    "239.txt",
+    "344.txt",
+    "407.txt",
+    "411.txt",
+    "452.txt",
+    "95.txt"
+   ],
+   "count": 14
+  },
+  {
+   "sample": "dẫndắttáchlớpservicegiảmcouplingvàrútngắnthờigiantriểnkhaitínhnăngmới45%",
+   "records": [
+    "101.txt",
+    "107.txt",
+    "167.txt",
+    "227.txt",
+    "229.txt",
+    "232.txt",
+    "292.txt",
+    "339.txt",
+    "344.txt",
+    "351.txt",
+    "412.txt",
+    "451.txt",
+    "497.txt",
+    "498.txt"
+   ],
+   "count": 14
+  },
+  {
+   "sample": "designedmultiregionstrategyanddisasterrecoverywithrecoverytimeunder200minutes",
+   "records": [
+    "110.txt",
+    "111.txt",
+    "112.txt",
+    "123.txt",
+    "177.txt",
+    "245.txt",
+    "296.txt",
+    "355.txt",
+    "361.txt",
+    "363.txt",
+    "416.txt",
+    "469.txt",
+    "471.txt"
+   ],
+   "count": 14
+  },
+  {
+   "sample": "dẫndắttáchlớpservicegiảmcouplingvàrútngắnthờigiantriểnkhaitínhnăngmới30%",
+   "records": [
+    "100.txt",
+    "103.txt",
+    "168.txt",
+    "171.txt",
+    "226.txt",
+    "239.txt",
+    "347.txt",
+    "453.txt",
+    "456.txt",
+    "457.txt",
+    "488.txt",
+    "501.txt"
+   ],
+   "count": 13
+  },
+  {
+   "sample": "designedmultiregionstrategyanddisasterrecoverywithrecoverytimeunder1200minutes",
+   "records": [
+    "110.txt",
+    "177.txt",
+    "243.txt",
+    "249.txt",
+    "252.txt",
+    "303.txt",
+    "304.txt",
+    "363.txt",
+    "414.txt",
+    "419.txt",
+    "423.txt",
+    "505.txt"
+   ],
+   "count": 13
+  },
+  {
+   "sample": "servedasprincipalarchitectfor18servicesbalancingcostlatencyandavailabilitytradeoffs",
+   "records": [
+    "113.txt",
+    "117.txt",
+    "122.txt",
+    "123.txt",
+    "182.txt",
+    "185.txt",
+    "243.txt",
+    "244.txt",
+    "245.txt",
+    "468.txt",
+    "505.txt"
+   ],
+   "count": 13
+  },
+  {
+   "sample": "giảmchiphíhạtầng35%bằngcáchtốiưutàinguyênvàthiếtkếmultitenant",
+   "records": [
+    "114.txt",
+    "186.txt",
+    "188.txt",
+    "189.txt",
+    "294.txt",
+    "359.txt",
+    "362.txt",
+    "415.txt",
+    "418.txt",
+    "503.txt",
+    "507.txt",
+    "508.txt",
+    "513.txt"
+   ],
+   "count": 13
+  },
+  {
+   "sample": "kiếntrúcsưchínhcho10serviceđưaraquyếtđịnhcôngnghệvàtradeoffvềchiphíđộtrễvàđộsẵnsàng",
+   "records": [
+    "114.txt",
+    "116.txt",
+    "181.txt",
+    "241.txt",
+    "247.txt",
+    "297.txt",
+    "298.txt",
+    "302.txt",
+    "413.txt",
+    "422.txt",
+    "424.txt",
+    "507.txt",
+    "510.txt"
+   ],
+   "count": 13
+  },
+  {
+   "sample": "thiếtkếchiếnlượcmultiregionvàdisasterrecoverythờigiankhôiphụcdưới450phút",
+   "records": [
+    "114.txt",
+    "121.txt",
+    "250.txt",
+    "297.txt",
+    "302.txt",
+    "359.txt",
+    "360.txt",
+    "417.txt",
+    "420.txt",
+    "421.txt",
+    "463.txt",
+    "466.txt",
+    "512.txt"
+   ],
+   "count": 13
+  },
+  {
+   "sample": "nângcaohiệuquảnhómthờigiangiaohànggiảm30%saukhichuẩnhóaquytrìnhreview",
+   "records": [
+    "127.txt",
+    "191.txt",
+    "195.txt",
+    "253.txt",
+    "255.txt",
+    "257.txt",
+    "367.txt",
+    "429.txt",
+    "474.txt",
+    "475.txt",
+    "477.txt"
+   ],
+   "count": 13
+  },
+  {
+   "sample": "owneda5yeartechnologyroadmapdrivingadoptiondecisionsandtechnicaldebtreduction",
+   "records": [
+    "129.txt",
+    "133.txt",
+    "193.txt",
+    "256.txt",
+    "258.txt",
+    "311.txt",
+    "426.txt",
+    "428.txt",
+    "517.txt",
+    "519.txt"
+   ],
+   "count": 13
+  },
+  {
+   "sample": "dẫndắttáchlớpservicegiảmcouplingvàrútngắnthờigiantriểnkhaitínhnăngmới60%",
+   "records": [
+    "106.txt",
+    "164.txt",
+    "226.txt",
+    "230.txt",
+    "280.txt",
+    "285.txt",
+    "400.txt",
+    "402.txt",
+    "460.txt",
+    "497.txt",
+    "498.txt",
+    "499.txt"
+   ],
+   "count": 12
+  },
+  {
+   "sample": "designedmultiregionstrategyanddisasterrecoverywithrecoverytimeunder600minutes",
+   "records": [
+    "112.txt",
+    "119.txt",
+    "178.txt",
+    "185.txt",
+    "243.txt",
+    "244.txt",
+    "355.txt",
+    "414.txt",
+    "419.txt",
+    "470.txt",
+    "504.txt"
+   ],
+   "count": 12
+  },
+  {
+   "sample": "giảmchiphíhạtầng20%bằngcáchtốiưutàinguyênvàthiếtkếmultitenant",
+   "records": [
+    "114.txt",
+    "116.txt",
+    "246.txt",
+    "247.txt",
+    "248.txt",
+    "354.txt",
+    "413.txt",
+    "417.txt",
+    "465.txt",
+    "466.txt",
+    "512.txt",
+    "514.txt"
+   ],
+   "count": 12
+  },
+  {
+   "sample": "designedmultiregionstrategyanddisasterrecoverywithrecoverytimeunder320minutes",
+   "records": [
+    "117.txt",
+    "122.txt",
+    "123.txt",
+    "124.txt",
+    "243.txt",
+    "249.txt",
+    "300.txt",
+    "358.txt",
+    "416.txt",
+    "423.txt",
+    "504.txt"
+   ],
+   "count": 12
+  },
+  {
+   "sample": "owneda2yeartechnologyroadmapdrivingadoptiondecisionsandtechnicaldebtreduction",
+   "records": [
+    "133.txt",
+    "256.txt",
+    "258.txt",
+    "311.txt",
+    "368.txt",
+    "369.txt",
+    "428.txt",
+    "516.txt"
+   ],
+   "count": 12
+  },
+  {
+   "sample": "participatedincodereviewsessionsandadoptedteamcodingstandards",
+   "records": [
+    "137.txt",
+    "141.txt",
+    "201.txt",
+    "209.txt",
+    "210.txt",
+    "315.txt",
+    "316.txt",
+    "318.txt",
+    "374.txt",
+    "379.txt",
+    "435.txt",
+    "436.txt"
+   ],
+   "count": 12
+  },
+  {
+   "sample": "giảmchiphíhạtầng45%bằngcáchtốiưutàinguyênvàthiếtkếmultitenant",
+   "records": [
+    "186.txt",
+    "189.txt",
+    "241.txt",
+    "246.txt",
+    "297.txt",
+    "301.txt",
+    "305.txt",
+    "413.txt",
+    "418.txt",
+    "464.txt",
+    "506.txt"
+   ],
+   "count": 12
+  },
+  {
+   "sample": "servedasprincipalarchitectfor8servicesbalancingcostlatencyandavailabilitytradeoffs",
+   "records": [
+    "110.txt",
+    "178.txt",
+    "245.txt",
+    "249.txt",
+    "304.txt",
+    "363.txt",
+    "414.txt",
+    "423.txt",
+    "469.txt",
+    "470.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "servedasprincipalarchitectfor5servicesbalancingcostlatencyandavailabilitytradeoffs",
+   "records": [
+    "110.txt",
+    "112.txt",
+    "124.txt",
+    "182.txt",
+    "243.txt",
+    "244.txt",
+    "245.txt",
+    "358.txt",
+    "361.txt",
+    "363.txt",
+    "504.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "designedmultiregionstrategyanddisasterrecoverywithrecoverytimeunder450minutes",
+   "records": [
+    "111.txt",
+    "113.txt",
+    "180.txt",
+    "183.txt",
+    "185.txt",
+    "244.txt",
+    "245.txt",
+    "303.txt",
+    "363.txt",
+    "468.txt",
+    "505.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "servedasprincipalarchitectfor6servicesbalancingcostlatencyandavailabilitytradeoffs",
+   "records": [
+    "111.txt",
+    "123.txt",
+    "178.txt",
+    "252.txt",
+    "304.txt",
+    "361.txt",
+    "468.txt",
+    "471.txt",
+    "504.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "reducedinfrastructurecostby25%throughresourceoptimisationandmultitenancy",
+   "records": [
+    "111.txt",
+    "124.txt",
+    "180.txt",
+    "182.txt",
+    "185.txt",
+    "300.txt",
+    "355.txt",
+    "358.txt",
+    "361.txt",
+    "363.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "giảmchiphíhạtầng15%bằngcáchtốiưutàinguyênvàthiếtkếmultitenant",
+   "records": [
+    "115.txt",
+    "176.txt",
+    "179.txt",
+    "242.txt",
+    "248.txt",
+    "298.txt",
+    "299.txt",
+    "301.txt",
+    "357.txt",
+    "424.txt",
+    "512.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "giảmchiphíhạtầng25%bằngcáchtốiưutàinguyênvàthiếtkếmultitenant",
+   "records": [
+    "116.txt",
+    "184.txt",
+    "250.txt",
+    "251.txt",
+    "297.txt",
+    "360.txt",
+    "364.txt",
+    "465.txt",
+    "467.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "giảmchiphíhạtầng60%bằngcáchtốiưutàinguyênvàthiếtkếmultitenant",
+   "records": [
+    "118.txt",
+    "120.txt",
+    "181.txt",
+    "190.txt",
+    "241.txt",
+    "353.txt",
+    "420.txt",
+    "467.txt",
+    "503.txt",
+    "511.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "giảmchiphíhạtầng30%bằngcáchtốiưutàinguyênvàthiếtkếmultitenant",
+   "records": [
+    "118.txt",
+    "121.txt",
+    "250.txt",
+    "298.txt",
+    "305.txt",
+    "420.txt",
+    "463.txt",
+    "466.txt",
+    "506.txt",
+    "510.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "servedasprincipalarchitectfor12servicesbalancingcostlatencyandavailabilitytradeoffs",
+   "records": [
+    "119.txt",
+    "124.txt",
+    "177.txt",
+    "183.txt",
+    "303.txt",
+    "358.txt",
+    "423.txt",
+    "470.txt",
+    "471.txt",
+    "504.txt"
+   ],
+   "count": 11
+  },
+  {
+   "sample": "ledservicedecompositionreducingcouplingandshorteningfeaturedeliveryby30%",
+   "records": [
+    "102.txt",
+    "170.txt",
+    "240.txt",
+    "341.txt",
+    "399.txt",
+    "401.txt",
+    "454.txt",
+    "489.txt",
+    "491.txt",
+    "493.txt"
+   ],
+   "count": 10
+  },
+  {
+   "sample": "nângcaohiệuquảnhómthờigiangiaohànggiảm40%saukhichuẩnhóaquytrìnhreview",
+   "records": [
+    "131.txt",
+    "307.txt",
+    "366.txt",
+    "429.txt",
+    "430.txt",
+    "473.txt",
+    "475.txt",
+    "476.txt"
+   ],
+   "count": 10
+  },
+  {
+   "sample": "appliedsolidprinciplesanddesignpatternsraisingtestabilityto80%",
+   "records": [
+    "158.txt",
+    "162.txt",
+    "240.txt",
+    "290.txt",
+    "491.txt"
+   ],
+   "count": 10
+  },
+  {
+   "sample": "giảmchiphíhạtầng40%bằngcáchtốiưutàinguyênvàthiếtkếmultitenant",
+   "records": [
+    "242.txt",
+    "294.txt",
+    "354.txt",
+    "357.txt",
+    "417.txt",
+    "422.txt",
+    "424.txt",
+    "507.txt",
+    "509.txt",
+    "513.txt"
+   ],
+   "count": 10
+  },
+  {
+   "sample": "dẫndắttáchlớpservicegiảmcouplingvàrútngắnthờigiantriểnkhaitínhnăngmới40%",
+   "records": [
+    "105.txt",
+    "163.txt",
+    "231.txt",
+    "235.txt",
+    "281.txt",
+    "288.txt",
+    "462.txt",
+    "490.txt",
+    "94.txt"
+   ],
+   "count": 9
+  },
+  {
+   "sample": "dẫndắttáchlớpservicegiảmcouplingvàrútngắnthờigiantriểnkhaitínhnăngmới35%",
+   "records": [
+    "104.txt",
+    "160.txt",
+    "175.txt",
+    "232.txt",
+    "234.txt",
+    "237.txt",
+    "403.txt",
+    "409.txt",
+    "99.txt"
+   ],
+   "count": 9
+  },
+  {
+   "sample": "giảmchiphíhạtầng50%bằngcáchtốiưutàinguyênvàthiếtkếmultitenant",
+   "records": [
+    "114.txt",
+    "116.txt",
+    "188.txt",
+    "190.txt",
+    "248.txt",
+    "251.txt",
+    "356.txt",
+    "421.txt",
+    "509.txt"
+   ],
+   "count": 9
+  }
+ ]
+}

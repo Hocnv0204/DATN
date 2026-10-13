@@ -1,0 +1,204 @@
+# ==============================================================================
+# PROJECT GITIGNORE: Hệ thống Trích xuất Thông tin CV (PTIT DATN)
+# Bao gồm: Python AI Service, Fine-Tuning Module, Java/Spring Boot Backend
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. PYTHON & VIRTUAL ENVIRONMENTS (ai-service & fine-tune)
+# ------------------------------------------------------------------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C-extensions
+*.c
+
+# Môi trường ảo (Virtual Environments - TUYỆT ĐỐI KHÔNG PUSH)
+.venv/
+.venv*/
+venv/
+venv*/
+env/
+env*/
+ENV/
+env.bak/
+venv.bak/
+
+# Phân phối / Đóng gói
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# PyInstaller / Unit test / Coverage
+*.manifest
+*.spec
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+htmlcov/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# ------------------------------------------------------------------------------
+# 2. AI / MACHINE LEARNING LARGE ARTIFACTS & MODEL WEIGHTS (>100MB)
+# ------------------------------------------------------------------------------
+# Mô hình lượng tử hóa GGUF (TUYỆT ĐỐI KHÔNG PUSH vì kích thước > 1GB vượt giới hạn GitHub)
+*.gguf
+**/merged_model/
+**/merged_16bit/
+**/gguf/
+model-*.gguf
+
+# Các checkpoint training tạm thời sinh ra trong quá trình SFT/LoRA
+**/checkpoint-*/optimizer.pt
+**/checkpoint-*/rng_state.pth
+**/checkpoint-*/scaler.pt
+**/checkpoint-*/scheduler.pt
+**/checkpoint-*/training_args.bin
+
+# Giữ lại các metadata và LoRA adapter chính đã được commit sẵn nếu cần
+# (Nếu muốn loại trừ hoàn toàn LoRA weights, có thể bỏ comment dòng bên dưới):
+# **/checkpoint-*/adapter_model.safetensors
+
+# Dữ liệu xuất trung gian hoặc cache tạm khi huấn luyện
+**/_stage/
+fine-tune/_stage/
+**/finetune_output/merged_model/
+**/finetune_output/gguf/
+
+# ------------------------------------------------------------------------------
+# 3. JAVA & MAVEN (Spring Boot Backend: cv-analysis-service)
+# ------------------------------------------------------------------------------
+# Thư mục build output của Maven
+target/
+**/target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+**/logs/
+
+# Packaging formats
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven wrapper jar (nếu không cần commit jar)
+.mvn/wrapper/maven-wrapper.jar
+
+# Crash logs
+hs_err_pid*
+replay_pid*
+
+# ------------------------------------------------------------------------------
+# 4. IDEs & TEXT EDITORS
+# ------------------------------------------------------------------------------
+# JetBrains (IntelliJ IDEA, PyCharm, etc.)
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+.idea_modules/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# Eclipse / STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Vim / Sublime Text
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------------------------------------------------------------
+# 5. ENVIRONMENT VARIABLES & SECRETS (BẢO MẬT API KEY)
+# ------------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+credentials.json
+client_secret*.json
+
+# ------------------------------------------------------------------------------
+# 6. OPERATING SYSTEM ARTIFACTS
+# ------------------------------------------------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*
