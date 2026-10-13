@@ -353,17 +353,48 @@ def load_model():
     )
     if os.path.exists(_gguf):
         try:
+            # Tự động preload libcudart/libcublas nếu chạy trên môi trường Linux/CUDA (Google Colab)
+            try:
+                import ctypes
+                import glob
+                _cuda_dirs = [
+                    "/usr/local/cuda/lib64",
+                    "/usr/local/cuda-12/lib64",
+                    "/usr/local/cuda-12.4/lib64",
+                    "/usr/local/cuda-12.2/lib64",
+                    "/usr/local/cuda-12.1/lib64",
+                    "/usr/local/cuda-12.0/lib64",
+                    "/usr/lib/x86_64-linux-gnu",
+                ]
+                try:
+                    import site
+                    for _sp in site.getsitepackages():
+                        _cuda_dirs.extend(glob.glob(os.path.join(_sp, "nvidia", "*", "lib")))
+                except Exception:
+                    pass
+                for _d in _cuda_dirs:
+                    if os.path.isdir(_d):
+                        for _lib in ["libcudart.so.12", "libcudart.so", "libcublas.so.12", "libcublas.so"]:
+                            _p = os.path.join(_d, _lib)
+                            if os.path.exists(_p):
+                                try:
+                                    ctypes.CDLL(_p, mode=ctypes.RTLD_GLOBAL)
+                                except Exception:
+                                    pass
+            except Exception as _ce:
+                logger.debug(f"Preload CUDA libs note: {_ce}")
+
             from llama_cpp import Llama
 
             logger.info(f"GGUF found: {_gguf}")
             logger.info("Loading GGUF (merged finetune, LoRA adapter KHÔNG cần thiết)...")
             llm = Llama(
-    model_path=GGUF_MODEL_PATH,
-    n_ctx=4096,
-    n_threads=6,          # 6 core vật lý của 5650U
-    n_gpu_layers=99,      # BẮT BUỘC: Đổi từ 0 thành 99 để offload toàn bộ layers sang iGPU Vega 7
-    verbose=True          # Bật True để xem log nhận diện Vulkan
-)
+                model_path=_gguf,
+                n_ctx=4096,
+                n_threads=6,
+                n_gpu_layers=99,      # Offload 100% layers lên GPU
+                verbose=True
+            )
             engine = "llama_cpp"
             gguf_path_used = _gguf
             logger.info("=" * 70)
