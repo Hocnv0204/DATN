@@ -485,36 +485,8 @@ def build_prompt_gguf(cv_text: str) -> str:
 
 
 def build_prompt(cv_text: str):
-
-    messages = [
-
-        {
-            "role": "system",
-            "content": (
-                    SYSTEM_PROMPT
-                    + "\n\n"
-                    + JSON_SCHEMA
-            )
-        },
-
-        {
-            "role": "user",
-            "content": cv_text
-        }
-
-    ]
-
-    prompt = tokenizer.apply_chat_template(
-        messages,
-        tokenize=False,
-        add_generation_prompt=True,
-
-        # RẤT QUAN TRỌNG
-        # Qwen3 không suy nghĩ <think>
-        enable_thinking=False,
-    )
-
-    return prompt
+    # Dùng chung prompt với build_prompt_gguf để đóng sẵn thẻ think và mớm '{'
+    return build_prompt_gguf(cv_text)
 
 
 # ============================================================
@@ -530,7 +502,6 @@ def generate_cv(cv_text: str):
         start = time.time()
         resp = llm(
             prompt=prompt,
-            # max_tokens = 600,
             max_tokens=MAX_NEW_TOKENS,          # Tăng nhẹ lên 1500 để không bao giờ bị cụt
             temperature=0.0,
             repeat_penalty=1.0,
@@ -558,6 +529,7 @@ def generate_cv(cv_text: str):
 
         return raw_output
 
+    # Đường Transformers (khi fallback hoặc chạy trực tiếp LoRA trên GPU)
     prompt = build_prompt(cv_text)
 
     device = next(
@@ -590,7 +562,6 @@ def generate_cv(cv_text: str):
 
             **inputs,
 
-            # Giống benchmark
             max_new_tokens=MAX_NEW_TOKENS,
 
             do_sample=False,
@@ -601,7 +572,7 @@ def generate_cv(cv_text: str):
 
             eos_token_id=tokenizer.eos_token_id,
 
-            repetition_penalty=1.15,
+            repetition_penalty=1.0,
         )
 
     duration = time.time() - start
@@ -619,6 +590,10 @@ def generate_cv(cv_text: str):
         generated_tokens,
         skip_special_tokens=True
     ).strip()
+
+    # Vì ta đã mớm ký tự '{' ở cuối prompt, cần ghép lại vào đầu text nếu nó chưa có
+    if not raw_output.startswith("{"):
+        raw_output = "{\n" + raw_output
 
     logger.info(
         f"Output tokens: {output_tokens}"
